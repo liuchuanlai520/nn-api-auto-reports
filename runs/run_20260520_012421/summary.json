@@ -1,0 +1,93 @@
+{
+  "run_id": "run_20260520_012421",
+  "timestamp": "2026-05-20T01:24:32.507578",
+  "environment": "test",
+  "base_url": "https://httpbin.org",
+  "total": 16,
+  "passed": 16,
+  "failed": 0,
+  "skipped": 0,
+  "duration_seconds": 16.68,
+  "test_cases": [
+    {
+      "name": "test_get_connectivity",
+      "status": "passed",
+      "story": "基础连通性"
+    },
+    {
+      "name": "test_post_connectivity",
+      "status": "passed",
+      "story": "POST 请求"
+    },
+    {
+      "name": "test_get_with_params[普通键值对]",
+      "status": "passed",
+      "story": "带参数请求"
+    },
+    {
+      "name": "test_get_with_params[空值参数]",
+      "status": "passed",
+      "story": "带参数请求"
+    },
+    {
+      "name": "test_get_with_params[特殊字符]",
+      "status": "passed",
+      "story": "带参数请求"
+    },
+    {
+      "name": "test_get_with_params[零值]",
+      "status": "passed",
+      "story": "带参数请求"
+    },
+    {
+      "name": "test_get_with_params[中文字符]",
+      "status": "passed",
+      "story": "带参数请求"
+    },
+    {
+      "name": "test_retry_on_500",
+      "status": "passed",
+      "story": "重试机制验证"
+    },
+    {
+      "name": "test_post_no_retry_on_500",
+      "status": "passed",
+      "story": "POST 不重试验证"
+    },
+    {
+      "name": "test_request_timeout",
+      "status": "passed",
+      "story": "超时验证"
+    },
+    {
+      "name": "test_response_headers",
+      "status": "passed",
+      "story": "响应头验证"
+    },
+    {
+      "name": "test_large_payload",
+      "status": "passed",
+      "story": "边界值 — 大 Payload"
+    },
+    {
+      "name": "test_empty_post",
+      "status": "passed",
+      "story": "边界值 — 空 Body POST"
+    },
+    {
+      "name": "test_http_methods[PUT]",
+      "status": "passed",
+      "story": "HTTP 方法覆盖"
+    },
+    {
+      "name": "test_http_methods[PATCH]",
+      "status": "passed",
+      "story": "HTTP 方法覆盖"
+    },
+    {
+      "name": "test_http_methods[DELETE]",
+      "status": "passed",
+      "story": "HTTP 方法覆盖"
+    }
+  ]
+}
