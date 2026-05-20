@@ -1,0 +1,12 @@
+{
+  "run_id": "run_20260520_013532",
+  "timestamp": "2026-05-20T01:39:39.037911",
+  "environment": "test",
+  "base_url": "https://httpbin.org",
+  "total": 16,
+  "passed": 16,
+  "failed": 0,
+  "skipped": 0,
+  "duration_seconds": 15.91,
+  "report_url": "https://liuchuanlai520.github.io/nn-api-auto-reports/runs/run_20260520_013532/index.html"
+}
