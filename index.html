@@ -1,29 +1,45 @@
 <!DOCTYPE html>
-<html lang="zh">
-<head>
+<html dir="ltr" lang="zh">
+<head><script>localStorage.setItem("allure:language","zh");</script>
     <meta charset="utf-8">
-    <title>自动化测试报告仓库</title>
-    <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 800px; margin: 50px auto; padding: 20px; background: #f5f5f5; }
-        h1 { color: #333; }
-        .report-card { background: white; border-radius: 8px; padding: 20px; margin: 15px 0; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-        .report-card h3 { margin: 0 0 10px 0; color: #1a73e8; }
-        .report-card a { color: #1a73e8; text-decoration: none; font-weight: 500; }
-        .report-card a:hover { text-decoration: underline; }
-        .meta { color: #666; font-size: 14px; margin-top: 8px; }
-        .status { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 12px; font-weight: 500; }
-        .status.pass { background: #e6f4ea; color: #137333; }
-    </style>
+    <meta name="allure-report-uuid" content="b2325cea-6b0b-4a25-b2ff-ad5243be4127">
+    <title>Allure Report</title>
+    <link rel="icon" href="assets/favicon-BDLHVmV7.ico">
+    <!-- allure-core-head:start -->
+    <!-- allure-core-head:end -->
 </head>
 <body>
-    <h1>🚀 自动化测试报告仓库</h1>
-    <div class="report-card">
-        <h3>📊 Smoke 测试报告</h3>
-        <p><strong>Run ID:</strong> run_20260520_013532</p>
-        <p><strong>执行时间:</strong> 2026-05-20 01:35:32</p>
-        <p><strong>测试结果:</strong> <span class="status pass">16/16 通过</span></p>
-        <p><a href="runs/run_20260520_013532/index.html">📄 查看完整 Allure 报告 →</a></p>
-        <p class="meta">环境: test (httpbin.org) | 耗时: 15.91s</p>
+    <div id="alert"></div>
+    <div id="content">
+        <span class="spinner">
+            <span class="spinner__circle"></span>
+        </span>
     </div>
+    <div id="popup"></div>
+    <!-- allure-core-body:start -->
+    <script>
+        window.__allureCoreLoaded = new Promise(function (resolve, reject) {
+        window.__allureResolveCoreLoaded = resolve;
+        window.__allureRejectCoreLoaded = reject;
+    });
+    </script>
+    <script src="assets/index-DbdpUWhB.js"></script>
+    <script>
+        if (typeof window.__allureResolveCoreLoaded === "function") {
+            window.__allureResolveCoreLoaded([]);
+        }
+    </script>
+    <!-- allure-core-body:end -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FVWC4GKEYS"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-FVWC4GKEYS', {
+          'allureVersion': '2.42.0',
+          'reportUuid': 'b2325cea-6b0b-4a25-b2ff-ad5243be4127',
+          'single_file': false
+        });
+    </script>
 </body>
 </html>

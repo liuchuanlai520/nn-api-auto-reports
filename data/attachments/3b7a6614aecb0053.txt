@@ -1,0 +1,4 @@
+2026-05-27 10:57:22 [INFO] api_test - >>> GET https://httpbin.org/get
+2026-05-27 10:57:22 [INFO] api_test - <<< 200 (0.22s)
+2026-05-27 10:57:22 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
+2026-05-27 10:57:22 [INFO] api_test - 断言字段值: 'url' 期望=https://httpbin.org/get, 实际=https://httpbin.org/get

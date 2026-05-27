@@ -1,0 +1,3 @@
+INFO     api_test:request.py:88 >>> GET https://httpbin.org/api/items
+INFO     api_test:request.py:119 <<< 404 (0.44s)
+INFO     api_test:assert_util.py:27 断言状态码: 期望在 [200, 400, 422] 内, 实际=404
