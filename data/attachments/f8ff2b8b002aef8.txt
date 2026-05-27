@@ -1,0 +1,5 @@
+INFO     api_test:request.py:88 >>> GET https://httpbin.org/status/500
+WARNING  api_test:request.py:106     状态码 500，第 1 次重试，等待 0.5s
+WARNING  api_test:request.py:106     状态码 500，第 2 次重试，等待 1.0s
+WARNING  api_test:request.py:106     状态码 500，第 3 次重试，等待 2.0s
+WARNING  api_test:request.py:106     状态码 500，第 4 次重试，等待 4.0s
