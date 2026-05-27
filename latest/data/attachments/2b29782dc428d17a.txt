@@ -1,0 +1,4 @@
+2026-05-27 10:57:22 [INFO] api_test - >>> POST https://httpbin.org/post
+2026-05-27 10:57:23 [INFO] api_test - <<< 200 (0.29s)
+2026-05-27 10:57:23 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
+2026-05-27 10:57:23 [INFO] api_test - 断言字段值: 'json' 期望={'name': 'smoke-test', 'timestamp': 1779850642}, 实际={'name': 'smoke-test', 'timestamp': 1779850642}

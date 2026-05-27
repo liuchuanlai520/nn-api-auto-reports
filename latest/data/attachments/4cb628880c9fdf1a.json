@@ -1,0 +1,21 @@
+{
+  "args": {},
+  "data": "{\"name\": \"smoke-test\", \"timestamp\": 1779850642}",
+  "files": {},
+  "form": {},
+  "headers": {
+    "Accept": "*/*",
+    "Accept-Encoding": "gzip, deflate",
+    "Content-Length": "47",
+    "Content-Type": "application/json",
+    "Host": "httpbin.org",
+    "User-Agent": "python-requests/2.31.0",
+    "X-Amzn-Trace-Id": "Root=1-6a165d93-7611775b1efa5bc324457d4e"
+  },
+  "json": {
+    "name": "smoke-test",
+    "timestamp": 1779850642
+  },
+  "origin": "209.95.133.180",
+  "url": "https://httpbin.org/post"
+}
