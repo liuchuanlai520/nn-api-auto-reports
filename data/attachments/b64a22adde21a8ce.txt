@@ -1,0 +1,3 @@
+INFO     api_test:request.py:88 >>> PUT https://httpbin.org/put
+INFO     api_test:request.py:119 <<< 200 (0.22s)
+INFO     api_test:assert_util.py:20 断言状态码: 期望=200, 实际=200

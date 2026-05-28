@@ -1,0 +1,11 @@
+{
+  "retCode": "auth_40002",
+  "retData": {
+    "kickReqChannel": 4,
+    "kickTime": 1779938152918
+  },
+  "retMsg": "您已在其他地方登录。",
+  "retTime": "2026-05-28 11:15:53",
+  "success": false,
+  "trackId": "1436e6e02a6e48a1a34af0c39ec06c52"
+}

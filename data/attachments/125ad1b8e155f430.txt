@@ -1,0 +1,2 @@
+INFO     api_test:request.py:88 >>> GET https://test-web.nn.com/status/500
+INFO     api_test:request.py:119 <<< 200 (0.06s)

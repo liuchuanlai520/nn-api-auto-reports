@@ -1,0 +1,4 @@
+INFO     api_test:request.py:88 >>> GET https://httpbin.org/get
+INFO     api_test:request.py:119 <<< 200 (0.30s)
+INFO     api_test:assert_util.py:148 综合断言通过: 状态码 200, 响应体可解析 ✓
+INFO     api_test:assert_util.py:73 断言字段值: 'args.special' 期望=hello%20world, 实际=hello%20world

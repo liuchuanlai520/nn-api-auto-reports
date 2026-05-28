@@ -1,0 +1,9 @@
+URL: https://test-web.nn.com/webapi/u-nnpc/registerLogin
+Method: POST
+Headers: {
+  "User-Agent": "python-requests/2.31.0",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive",
+  "token": "nnPcWeb_8GIXaARk12dbcee90114462fb671b394832c7fc5"
+}

@@ -1,0 +1,10 @@
+URL: https://test-web.nn.com/api/imapi/msg/sessionList
+Method: GET
+Headers: {
+  "User-Agent": "python-requests/2.31.0",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive",
+  "authorization": "Leigod eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlZmYiOjE3ODI2MjYwNzUwMTMsInZhbHVlIjoie1wiYXBwSWRcIjpcIm5uUGNXZWJfOEdJWGFBUmtcIixcInVzZXJJZFwiOlwiMTAwMDU0NDlcIn0ifQ.4l5Fq86JoFbEtmgR0lXSjwWDthmoxReu5YBTiyh4YTQ",
+  "reqchannel": "4"
+}

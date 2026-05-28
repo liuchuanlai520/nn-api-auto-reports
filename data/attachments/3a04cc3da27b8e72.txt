@@ -1,0 +1,2 @@
+2026-05-28 13:45:53 [INFO] api_test - >>> GET https://test-web.nn.com/status/500
+2026-05-28 13:45:53 [INFO] api_test - <<< 200 (0.06s)

@@ -1,0 +1,189 @@
+{
+  "retTime": "2026-05-28 13:52:05",
+  "success": true,
+  "trackId": "6fa4988194864405ba7f841143d277bc",
+  "retData": [
+    {
+      "createBy": "刘传来",
+      "propTypeId": 3,
+      "createTime": "2024-08-13 10:42:46",
+      "norms": [
+        "2",
+        "3",
+        "7"
+      ],
+      "updateBy": "李慧",
+      "typeName": "头像框",
+      "updateTime": "2025-10-24 10:28:36",
+      "id": 3,
+      "sort": 99,
+      "status": 1
+    },
+    {
+      "createBy": "刘传来",
+      "propTypeId": 5,
+      "createTime": "2024-08-13 11:23:04",
+      "norms": [
+        "1",
+        "3",
+        "15"
+      ],
+      "updateBy": "周科",
+      "typeName": "入场特效",
+      "updateTime": "2025-09-06 11:08:53",
+      "id": 5,
+      "sort": 97,
+      "status": 1
+    },
+    {
+      "createBy": "管理员",
+      "propTypeId": 12,
+      "createTime": "2024-09-19 09:52:57",
+      "norms": [
+        "1",
+        "3",
+        "15"
+      ],
+      "updateBy": "李慧",
+      "typeName": "昵称挂件",
+      "updateTime": "2025-10-24 09:55:07",
+      "id": 7,
+      "sort": 96,
+      "status": 1
+    },
+    {
+      "createBy": "吴烨琪",
+      "propTypeId": 13,
+      "createTime": "2024-10-17 10:07:19",
+      "norms": [
+        "1",
+        "3",
+        "-1"
+      ],
+      "updateBy": "李慧",
+      "typeName": "靓号",
+      "updateTime": "2025-10-24 09:55:43",
+      "id": 10,
+      "sort": 50,
+      "status": 1
+    },
+    {
+      "createBy": "吴烨琪",
+      "propTypeId": 14,
+      "createTime": "2024-10-16 16:17:48",
+      "norms": [],
+      "updateBy": "王璐",
+      "typeName": "CDK",
+      "updateTime": "2024-12-31 15:08:37",
+      "id": 8,
+      "sort": 30,
+      "status": 1
+    },
+    {
+      "createBy": "鲁安娜",
+      "propTypeId": 16,
+      "createTime": "2024-10-31 16:17:13",
+      "norms": [
+        "7",
+        "365",
+        "730",
+        "1095"
+      ],
+      "updateBy": "李慧",
+      "typeName": "用户权益",
+      "updateTime": "2025-10-17 13:54:09",
+      "id": 11,
+      "sort": 15,
+      "status": 1
+    },
+    {
+      "createBy": "韩家毅",
+      "propTypeId": 18,
+      "createTime": "2025-03-07 16:16:51",
+      "norms": [
+        "1",
+        "10",
+        "100"
+      ],
+      "updateBy": "周科",
+      "typeName": "社区权益",
+      "updateTime": "2025-07-19 10:39:47",
+      "id": 12,
+      "sort": 7,
+      "status": 1
+    },
+    {
+      "createBy": "刘传来",
+      "propTypeId": 10,
+      "createTime": "2024-08-13 14:10:22",
+      "norms": [
+        "1",
+        "5",
+        "6"
+      ],
+      "updateBy": "王可",
+      "typeName": "入场坐骑",
+      "updateTime": "2024-10-09 11:56:52",
+      "id": 6,
+      "sort": 4,
+      "status": 1
+    },
+    {
+      "createBy": "刘传来",
+      "propTypeId": 4,
+      "createTime": "2024-08-13 10:59:27",
+      "norms": [
+        "1"
+      ],
+      "updateBy": "李曹顺",
+      "typeName": "麦位声波",
+      "updateTime": "2025-02-28 11:50:03",
+      "id": 4,
+      "sort": 3,
+      "status": 1
+    },
+    {
+      "createBy": "刘传来",
+      "propTypeId": 2,
+      "createTime": "2024-08-13 10:37:54",
+      "norms": [
+        "1"
+      ],
+      "updateBy": "李曹顺",
+      "typeName": "名片皮肤",
+      "updateTime": "2025-02-28 11:49:48",
+      "id": 2,
+      "sort": 2,
+      "status": 1
+    },
+    {
+      "createBy": "鲁安娜",
+      "propTypeId": 1,
+      "createTime": "2024-08-12 20:49:41",
+      "norms": [
+        "1",
+        "5"
+      ],
+      "updateBy": "李曹顺",
+      "typeName": "个性徽章",
+      "updateTime": "2025-02-28 11:48:26",
+      "id": 1,
+      "sort": 1,
+      "status": 1
+    },
+    {
+      "createBy": "张敏",
+      "propTypeId": 17,
+      "createTime": "2025-03-12 15:15:00",
+      "norms": [],
+      "updateBy": "李曹顺",
+      "typeName": "电脑外设",
+      "updateTime": "2025-09-17 17:32:44",
+      "id": 13,
+      "sort": 1,
+      "status": 1
+    }
+  ],
+  "retCode": "100",
+  "retMsg": "操作成功"
+}
