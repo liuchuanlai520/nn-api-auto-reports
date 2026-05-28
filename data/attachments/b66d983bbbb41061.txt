@@ -1,3 +1,0 @@
-INFO     api_test:request.py:88 >>> POST https://httpbin.org/status/500
-INFO     api_test:request.py:119 <<< 500 (0.23s)
-INFO     api_test:assert_util.py:20 断言状态码: 期望=500, 实际=500

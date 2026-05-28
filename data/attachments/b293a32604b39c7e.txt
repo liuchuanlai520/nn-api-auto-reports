@@ -1,3 +1,0 @@
-2026-05-27 10:57:21 [INFO] api_test - >>> GET https://httpbin.org/api/items
-2026-05-27 10:57:21 [INFO] api_test - <<< 404 (0.44s)
-2026-05-27 10:57:21 [INFO] api_test - 断言状态码: 期望在 [200, 400, 422] 内, 实际=404
