@@ -1,3 +1,0 @@
-2026-05-28 13:48:27 [INFO] api_test - >>> DELETE https://httpbin.org/delete
-2026-05-28 13:48:28 [INFO] api_test - <<< 200 (0.26s)
-2026-05-28 13:48:28 [INFO] api_test - 断言状态码: 期望=200, 实际=200

@@ -1,3 +1,0 @@
-INFO     api_test:request.py:88 >>> POST https://test-web.nn.com/api/items
-INFO     api_test:request.py:119 <<< 200 (0.02s)
-INFO     api_test:assert_util.py:27 断言状态码: 期望在 [200, 201, 202] 内, 实际=200

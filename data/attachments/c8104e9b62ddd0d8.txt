@@ -1,3 +1,0 @@
-2026-05-28 13:48:22 [INFO] api_test - >>> GET https://httpbin.org/delay/2
-2026-05-28 13:48:26 [INFO] api_test - <<< 200 (3.44s)
-2026-05-28 13:48:26 [INFO] api_test - 断言状态码: 期望=200, 实际=200

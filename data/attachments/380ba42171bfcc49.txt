@@ -1,3 +1,0 @@
-2026-05-28 13:45:53 [INFO] api_test - >>> POST https://test-web.nn.com/status/500
-2026-05-28 13:45:53 [INFO] api_test - <<< 405 (0.05s)
-2026-05-28 13:45:53 [INFO] api_test - 断言状态码: 期望=500, 实际=405

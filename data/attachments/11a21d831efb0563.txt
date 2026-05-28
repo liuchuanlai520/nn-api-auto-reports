@@ -1,4 +1,0 @@
-2026-05-28 13:48:09 [INFO] api_test - >>> GET https://httpbin.org/get
-2026-05-28 13:48:09 [INFO] api_test - <<< 200 (0.26s)
-2026-05-28 13:48:09 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
-2026-05-28 13:48:09 [INFO] api_test - 断言字段值: 'args.foo' 期望=bar, 实际=bar

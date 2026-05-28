@@ -1,2 +1,0 @@
-INFO     api_test:request.py:88 >>> GET https://test-web.nn.com/get
-INFO     api_test:request.py:119 <<< 200 (0.05s)

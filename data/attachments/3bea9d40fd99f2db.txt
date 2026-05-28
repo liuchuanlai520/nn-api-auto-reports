@@ -1,2 +1,0 @@
-2026-05-28 13:43:04 [INFO] api_test - >>> GET https://test-web.nn.com/headers
-2026-05-28 13:43:04 [INFO] api_test - <<< 404 (0.04s)

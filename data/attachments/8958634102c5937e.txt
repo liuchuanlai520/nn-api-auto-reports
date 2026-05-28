@@ -1,2 +1,0 @@
-2026-05-28 13:48:05 [INFO] api_test - >>> GET https://test-web.nn.com/health
-2026-05-28 13:48:05 [INFO] api_test - <<< 200 (0.02s)

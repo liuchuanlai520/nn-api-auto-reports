@@ -1,5 +1,0 @@
-2026-05-28 13:43:06 [INFO] api_test - [NN] 正在获取 Token: POST https://test-web.nn.com/webapi/u-nnpc/registerLogin, telNum=17890000900 (attempt 1)
-2026-05-28 13:43:07 [INFO] api_test - [NN] Token 获取成功: userId=10005449, nickName=自动化测试大神1
-2026-05-28 13:43:07 [INFO] api_test - [Fixture] dashen token 已获取: nnPcWeb_8GIXaARk0d4a...
-2026-05-28 13:43:07 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/u-nnpc/api/v2/userInfo/findMyUserInfo
-2026-05-28 13:43:07 [INFO] api_test - <<< 200 (0.02s)

@@ -1,5 +1,0 @@
-2026-05-28 13:48:11 [INFO] api_test - >>> GET https://httpbin.org/status/500
-2026-05-28 13:48:12 [WARNING] api_test -     状态码 500，第 1 次重试，等待 0.5s
-2026-05-28 13:48:13 [WARNING] api_test -     状态码 500，第 2 次重试，等待 1.0s
-2026-05-28 13:48:14 [WARNING] api_test -     状态码 500，第 3 次重试，等待 2.0s
-2026-05-28 13:48:17 [WARNING] api_test -     状态码 500，第 4 次重试，等待 4.0s

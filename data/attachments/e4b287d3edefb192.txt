@@ -1,6 +1,0 @@
-2026-05-28 13:52:03 [INFO] api_test - [NN] nimToken 获取成功: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUz...
-2026-05-28 13:52:03 [INFO] api_test - [Fixture] IM HTTP 客户端已创建: base_url=https://test-web.nn.com
-2026-05-28 13:52:03 [INFO] api_test - >>> GET https://test-web.nn.com/api/imapi/msg/sessionList
-2026-05-28 13:52:03 [INFO] api_test - <<< 200 (0.63s)
-2026-05-28 13:52:03 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
-2026-05-28 13:52:03 [INFO] api_test - 断言字段值: 'code' 期望=0, 实际=0

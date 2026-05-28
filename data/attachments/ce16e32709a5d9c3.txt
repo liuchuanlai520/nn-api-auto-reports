@@ -1,5 +1,0 @@
-INFO     api_test:conftest.py:243 [Fixture] httpbin HTTP 客户端已创建: base_url=https://httpbin.org
-INFO     api_test:request.py:88 >>> GET https://httpbin.org/get
-INFO     api_test:request.py:119 <<< 200 (2.90s)
-INFO     api_test:assert_util.py:148 综合断言通过: 状态码 200, 响应体可解析 ✓
-INFO     api_test:assert_util.py:73 断言字段值: 'url' 期望=https://httpbin.org/get, 实际=https://httpbin.org/get

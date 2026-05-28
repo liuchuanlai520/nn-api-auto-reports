@@ -1,3 +1,0 @@
-2026-05-28 13:43:04 [INFO] api_test - >>> DELETE https://test-web.nn.com/delete
-2026-05-28 13:43:04 [INFO] api_test - <<< 405 (0.02s)
-2026-05-28 13:43:04 [INFO] api_test - 断言状态码: 期望=200, 实际=405
