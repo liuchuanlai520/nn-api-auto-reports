@@ -1,0 +1,17 @@
+URL: https://test-web.nn.com/webapi/leigod-rtc/api/v1/rtcAuth/initRtcConnect
+Method: POST
+Headers: {
+  "User-Agent": "python-requests/2.31.0",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive",
+  "appid": "nnPcWeb_8GIXaARk",
+  "registercanal": "guanwang_nn",
+  "busitype": "nn_aksjfdasoifnkls",
+  "deviceid": "f017ac15e32f4b25aae3ac08c96e8879",
+  "adan": "userSourceType=0",
+  "reqchannel": "4",
+  "version": "201048",
+  "content-type": "application/json",
+  "token": "nnPcWeb_8GIXaARke5b94659ee69473cab3d6afbdc2a1677"
+}

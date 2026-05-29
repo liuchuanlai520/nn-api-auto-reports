@@ -1,0 +1,53 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "1001007288": {
+      "message": {
+        "from": 154457121,
+        "to": 1001007288,
+        "deviceId": "ANDROID__154457121_b423b0b7be194d359b6fc45990d63330",
+        "sessionId": "1001007288",
+        "msgType": 0,
+        "bizType": 3,
+        "cmd": 0,
+        "protocolType": 0,
+        "title": null,
+        "msgId": "1486361025643324037",
+        "sequence": 1774417683843,
+        "atFlag": null,
+        "content": "@全体成员655",
+        "clientTime": 1774417683772,
+        "serverTime": 1774417683843,
+        "deviceType": 2,
+        "extend1": "{\"avatar\":\"https://test1-dfs01.nn.com/v2/default/1721917825/6578/gkp2b7.jpg\",\"deviceType\":2,\"gift\":[{\"appImgUrl\":\"\",\"expirationTime\":\"1764923433000\",\"giftPackType\":\"3\",\"hasOpen\":0,\"id\":\"1159\"},{\"appImgUrl\":\"\",\"expirationTime\":\"1761619457000\",\"giftPackType\":\"5\",\"hasOpen\":0,\"id\":\"1162\"},{\"appImgUrl\":\"\",\"expirationTime\":\"4912664025068\",\"giftPackType\":\"10\",\"hasOpen\":0,\"id\":\"-1\"},{\"appImgUrl\":\"\",\"expirationTime\":\"1731304574000\",\"giftPackType\":\"4\",\"hasOpen\":0,\"id\":\"1015\"},{\"appImgUrl\":\"\",\"expirationTime\":\"4893543491084\",\"giftPackType\":\"13\",\"goodNumLevel\":2,\"hasOpen\":0,\"id\":\"342\"},{\"appImgUrl\":\"\",\"giftPackType\":\"11\",\"hasOpen\":0}],\"isGuest\":false,\"level\":0,\"nick\":\"我是一个好人哈哈\",\"nnNumber\":497543221,\"serverInfo\":{\"serverAvatar\":\"https://test1-dfs01.nn.com/v2/player/1713249832/5241/qs83pe.png\",\"serverId\":52198,\"serverName\":\"一起开黑的社区666\"},\"serverNick\":{\"nickName\":\"\",\"serverId\":52198,\"userId\":154457121},\"sex\":\"man\",\"teamServerInfo\":{\"level\":10,\"memberLevel\":12,\"serverAvatar\":\"https://test1-dfs01.nn.com/v2/player/1713249832/5241/qs83pe.png\",\"serverId\":52198,\"serverName\":\"一起开黑的社区666\",\"serverNo\":10004817},\"userID\":\"154457121\"}",
+        "extend2": "",
+        "extend3": "",
+        "extend4": "",
+        "extend5": "",
+        "name": "我是一个好人哈哈",
+        "avatarUrl": "https://test1-dfs01.nn.com/v2/default/1721917825/6578/gkp2b7.jpg",
+        "isDelete": null,
+        "isRevoke": null,
+        "operateUid": null,
+        "reason": null,
+        "msgSeq": null,
+        "mtime": null,
+        "atList": [
+          {
+            "type": 0,
+            "data": 0,
+            "startIndex": 0,
+            "endIndex": 5
+          }
+        ],
+        "cmsgId": 1486361025643324037,
+        "cMsgId": 1486361025643324037
+      },
+      "count": 1,
+      "messageIds": [
+        "1486361025643324037"
+      ]
+    }
+  }
+}

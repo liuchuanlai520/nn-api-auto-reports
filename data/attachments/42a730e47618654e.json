@@ -1,0 +1,83 @@
+{
+  "retTime": "2026-05-29 17:14:46",
+  "success": true,
+  "trackId": "f064b514cdf746fca852b77a6afb70d3",
+  "retData": [
+    {
+      "bizType": 1,
+      "hotList": [
+        {
+          "pointStatus": 1,
+          "type": 3
+        },
+        {
+          "pointStatus": 1,
+          "type": 10
+        },
+        {
+          "pointStatus": 0,
+          "type": 5
+        },
+        {
+          "pointStatus": 0,
+          "type": 12
+        },
+        {
+          "pointStatus": 0,
+          "type": 16
+        }
+      ],
+      "pointStatus": 1
+    },
+    {
+      "bizType": 2,
+      "hotList": [
+        {
+          "pointStatus": 0,
+          "type": 3
+        },
+        {
+          "pointStatus": 0,
+          "type": 10
+        },
+        {
+          "pointStatus": 0,
+          "type": 5
+        },
+        {
+          "pointStatus": 0,
+          "type": 12
+        },
+        {
+          "pointStatus": 0,
+          "type": 16
+        },
+        {
+          "pointStatus": 0,
+          "type": 13
+        },
+        {
+          "pointStatus": 0,
+          "type": 14
+        },
+        {
+          "pointStatus": 0,
+          "type": 17
+        }
+      ],
+      "pointStatus": 0
+    },
+    {
+      "bizType": 3,
+      "hotList": [],
+      "pointStatus": 0
+    },
+    {
+      "bizType": 4,
+      "hotList": [],
+      "pointStatus": 1
+    }
+  ],
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

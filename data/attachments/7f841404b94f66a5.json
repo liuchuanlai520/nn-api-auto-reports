@@ -1,0 +1,8 @@
+{
+  "retCode": "auth_40001",
+  "retData": null,
+  "retMsg": "本次登录已失效,请重新登录",
+  "retTime": "2026-05-29 17:12:55",
+  "success": false,
+  "trackId": "38cf48428f844d0fa734e62aa6df92c9"
+}

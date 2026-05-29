@@ -1,0 +1,11 @@
+{
+  "consumerType": 1,
+  "goodsId": 321,
+  "nbAmount": 0,
+  "orderType": 25,
+  "targetIds": [],
+  "qty": 1,
+  "rewardScene": 1,
+  "isAllReward": 0,
+  "isSendComboGift": 1
+}

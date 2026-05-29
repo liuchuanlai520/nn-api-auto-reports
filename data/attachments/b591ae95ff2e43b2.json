@@ -1,0 +1,16 @@
+{
+  "retTime": "2026-05-29 17:17:46",
+  "success": true,
+  "trackId": "e07fe4361ec44a28ba3111a15489564a",
+  "retData": {
+    "birthDay": "2000-11-30 00:00:00",
+    "now": "2026-05-29",
+    "idNumber": "1********34",
+    "authRealName": "刘**",
+    "userId": 10005449,
+    "isAdult": 1,
+    "mainlandId": 0
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

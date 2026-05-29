@@ -1,0 +1,4 @@
+2026-05-29 16:57:43 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/wan/api/v3/user/info/query/userPrice/154471365
+2026-05-29 16:57:43 [INFO] api_test - <<< 200 (0.02s)
+2026-05-29 16:57:43 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
+2026-05-29 16:57:43 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=auth_40001

@@ -1,0 +1,6 @@
+2026-05-29 17:16:04 [INFO] api_test - >>> GET https://test-web.nn.com/webapi/wan/client/hot/point/query
+2026-05-29 17:16:04 [INFO] api_test - <<< 200 (0.02s)
+2026-05-29 17:16:04 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
+2026-05-29 17:16:04 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=100
+2026-05-29 17:16:04 [INFO] api_test - 断言字段存在: 'retData.hotList' ✓
+2026-05-29 17:16:04 [INFO] api_test - 断言字段存在: 'retData.pointStatus' ✓
