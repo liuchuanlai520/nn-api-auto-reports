@@ -1,0 +1,4 @@
+2026-05-29 17:27:26 [INFO] api_test - >>> GET https://test-web.nn.com/api/imapi/msg/historyAtList
+2026-05-29 17:27:26 [INFO] api_test - <<< 200 (0.03s)
+2026-05-29 17:27:26 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
+2026-05-29 17:27:26 [INFO] api_test - 断言字段值: 'code' 期望=0, 实际=0

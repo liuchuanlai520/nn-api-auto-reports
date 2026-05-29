@@ -1,0 +1,10 @@
+URL: https://test-web.nn.com/api/imapi/msg/historyAtList
+Method: GET
+Headers: {
+  "User-Agent": "python-requests/2.31.0",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive",
+  "authorization": "Leigod eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlZmYiOjE3ODI3MjM1ODAxNTAsInZhbHVlIjoie1wiYXBwSWRcIjpcIm5uUGNXZWJfOEdJWGFBUmtcIixcInVzZXJJZFwiOlwiMTAwMDU0NDlcIn0ifQ.vKf9RsvGQsdp_Pk34kkRkQvh1jVsNm7AuAhFtbg7MTA",
+  "reqchannel": "4"
+}

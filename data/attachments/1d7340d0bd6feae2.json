@@ -1,0 +1,15 @@
+{
+  "retTime": "2026-05-29 17:11:45",
+  "success": true,
+  "trackId": "db5125c4a22e4393bb83dcebef95aebc",
+  "retData": {
+    "customerManagerUserId": 154453546,
+    "effectiveWan": 1,
+    "hasCustomerManager": false,
+    "statue": "1",
+    "userId": 10005449,
+    "identityWan": 1
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

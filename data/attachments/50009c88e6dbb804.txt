@@ -1,0 +1,17 @@
+URL: https://test-web.nn.com/webapi/nnorder/unified/order/pay
+Method: POST
+Headers: {
+  "User-Agent": "python-requests/2.31.0",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive",
+  "appid": "nnPcWeb_8GIXaARk",
+  "registercanal": "guanwang_nn",
+  "busitype": "nn_aksjfdasoifnkls",
+  "deviceid": "f017ac15e32f4b25aae3ac08c96e8879",
+  "adan": "userSourceType=0",
+  "reqchannel": "4",
+  "version": "201048",
+  "content-type": "application/json",
+  "token": "nnPcWeb_8GIXaARk1659ba620eaa4dcfbe6544295505dc61"
+}

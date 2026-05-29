@@ -1,0 +1,8 @@
+{
+  "retTime": "2026-05-29 17:22:30",
+  "success": false,
+  "trackId": "bcf4e38a939040c6a11c8b83d080905c",
+  "retData": null,
+  "retCode": "501",
+  "retMsg": "参数校验失败: {orderType —> null: 订单类型不允许为空, }"
+}

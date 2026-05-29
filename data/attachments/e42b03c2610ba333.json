@@ -1,0 +1,123 @@
+{
+  "retTime": "2026-05-29 16:58:48",
+  "success": true,
+  "trackId": "e6bc4eff1fbc40398f93928cfdfe70a4",
+  "retData": [
+    {
+      "hasMaster": "",
+      "userInfo": {
+        "isBef": false,
+        "nnNumber": 65762595,
+        "signature": "嘎嘎嘎",
+        "isDelete": 0,
+        "nickName": "自动化测试大神1",
+        "onlineStatus": 0,
+        "sex": "man",
+        "userUrlNn": "https://test1-dfs01.nn.com/v3/userImg/1733985153/1837/c0h4u5.png",
+        "cityId": null,
+        "vipExpireTimestamp": null,
+        "provinceId": 0,
+        "userId": 10005449,
+        "goodNumLevel": null,
+        "vipExpire": null,
+        "userLevel": null,
+        "cityName": null,
+        "createTime": "2024-12-12 14:32:11",
+        "countyId": null,
+        "currentTimestamp": null,
+        "telNum": null,
+        "provinceName": null,
+        "userType": "general",
+        "isDel": false,
+        "goodNum": null
+      },
+      "packInfoVoList": [
+        {
+          "giftPackType": "3",
+          "goodNumLevel": null,
+          "expirationTime": 1752581492000,
+          "id": 8006,
+          "goodNum": null
+        },
+        {
+          "giftPackType": "12",
+          "goodNumLevel": null,
+          "expirationTime": 1752581492000,
+          "id": 8009,
+          "goodNum": null
+        }
+      ],
+      "onlineDevices": [],
+      "userGrade": 100,
+      "masterHasJump": "",
+      "onlineStatus": 0,
+      "orderStatus": 0,
+      "experience": 500000000,
+      "extendInfo": "",
+      "hasOpen": 1,
+      "hasWan": "1",
+      "imConfMapStr": "",
+      "confMapStr": "",
+      "userHasJump": "3",
+      "userGradeStatus": 1
+    },
+    {
+      "hasMaster": "",
+      "userInfo": {
+        "isBef": false,
+        "nnNumber": 65762676,
+        "signature": "",
+        "isDelete": 0,
+        "nickName": "自动化普通用户",
+        "onlineStatus": 1,
+        "sex": "secrecy",
+        "userUrlNn": "https://test1-dfs01.nn.com/v3/userImg/1734075604/4277/2ly10e.png",
+        "cityId": null,
+        "vipExpireTimestamp": null,
+        "provinceId": 0,
+        "userId": 10005567,
+        "goodNumLevel": null,
+        "vipExpire": null,
+        "userLevel": null,
+        "cityName": null,
+        "createTime": "2024-12-13 15:39:46",
+        "countyId": null,
+        "currentTimestamp": null,
+        "telNum": null,
+        "provinceName": null,
+        "userType": "general",
+        "isDel": false,
+        "goodNum": null
+      },
+      "packInfoVoList": [],
+      "onlineDevices": [
+        {
+          "deviceType": 4,
+          "appId": "nnPcWeb_8GIXaARk",
+          "deviceId": "WEB__10005567_6a194bb5e4b0e677bc7f95ed",
+          "userId": 10005567
+        },
+        {
+          "deviceType": 4,
+          "appId": "nnPcWeb_8GIXaARk",
+          "deviceId": "WEB__10005567_6a194bb5e4b0e677bc7f95ec",
+          "userId": 10005567
+        }
+      ],
+      "userGrade": null,
+      "masterHasJump": "",
+      "onlineStatus": 1,
+      "orderStatus": 0,
+      "experience": null,
+      "extendInfo": "",
+      "hasOpen": null,
+      "hasWan": "",
+      "imConfMapStr": "",
+      "confMapStr": "",
+      "userHasJump": "6",
+      "userGradeStatus": null
+    }
+  ],
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

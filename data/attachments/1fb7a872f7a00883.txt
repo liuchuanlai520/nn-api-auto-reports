@@ -1,0 +1,6 @@
+INFO     api_test:login_fixture.py:162 [NN] 正在获取 Token: POST https://test-web.nn.com/webapi/u-nnpc/registerLogin, telNum=17880000900 (attempt 1)
+INFO     api_test:login_fixture.py:184 [NN] Token 获取成功: userId=10005567, nickName=自动化普通用户
+INFO     api_test:conftest.py:113 [Fixture] user token 已获取: nnPcWeb_8GIXaARka9d9...
+INFO     api_test:conftest.py:217 [Fixture] user HTTP 客户端已创建: base_url=https://test-web.nn.com
+INFO     api_test:request.py:90 >>> POST https://test-web.nn.com/webapi/u-nnpc/api/v2/userInfo/findMyUserInfo
+INFO     api_test:request.py:121 <<< 200 (0.74s)
