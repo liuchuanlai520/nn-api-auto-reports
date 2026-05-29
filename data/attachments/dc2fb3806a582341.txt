@@ -1,7 +1,0 @@
-INFO     api_test:assert_util.py:47 断言字段存在: 'retData.token' ✓
-INFO     api_test:assert_util.py:47 断言字段存在: 'retData.userId' ✓
-INFO     api_test:assert_util.py:47 断言字段存在: 'retData.nickName' ✓
-INFO     api_test:assert_util.py:47 断言字段存在: 'retData.sex' ✓
-INFO     api_test:assert_util.py:47 断言字段存在: 'retData.nnNumber' ✓
-INFO     api_test:assert_util.py:47 断言字段存在: 'retData.telNum' ✓
-INFO     api_test:assert_util.py:47 断言字段存在: 'retData.createTime' ✓
