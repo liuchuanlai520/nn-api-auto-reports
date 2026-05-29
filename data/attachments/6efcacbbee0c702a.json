@@ -1,0 +1,10 @@
+{
+  "retTime": "2026-05-29 13:55:49",
+  "success": true,
+  "trackId": "b64926dbaadb401e81ece072b2e023f8",
+  "retData": {
+    "isBan": false
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}
