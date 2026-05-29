@@ -1,0 +1,11 @@
+{
+  "retTime": "2026-05-29 17:48:55",
+  "success": true,
+  "trackId": "f764d04642f34f08b6e767bb3f89ba0d",
+  "retData": {
+    "openStatus": 0,
+    "userId": 10005449
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

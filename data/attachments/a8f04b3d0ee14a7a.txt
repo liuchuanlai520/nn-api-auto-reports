@@ -1,7 +1,0 @@
-2026-05-29 17:11:54 [INFO] api_test - 断言字段存在: 'retData.token' ✓
-2026-05-29 17:11:54 [INFO] api_test - 断言字段存在: 'retData.userId' ✓
-2026-05-29 17:11:54 [INFO] api_test - 断言字段存在: 'retData.nickName' ✓
-2026-05-29 17:11:54 [INFO] api_test - 断言字段存在: 'retData.sex' ✓
-2026-05-29 17:11:54 [INFO] api_test - 断言字段存在: 'retData.nnNumber' ✓
-2026-05-29 17:11:54 [INFO] api_test - 断言字段存在: 'retData.telNum' ✓
-2026-05-29 17:11:54 [INFO] api_test - 断言字段存在: 'retData.createTime' ✓

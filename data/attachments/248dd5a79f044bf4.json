@@ -1,8 +1,0 @@
-{
-  "retTime": "2026-05-29 17:18:57",
-  "success": false,
-  "trackId": "49e5c92474914be19a3aaf43e081b32a",
-  "retData": null,
-  "retCode": "order_303",
-  "retMsg": "订单过期，请重新下单"
-}

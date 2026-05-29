@@ -1,0 +1,4 @@
+2026-05-29 17:49:08 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/u-nnpc/api/v2/userInfo/findMyUserInfo
+2026-05-29 17:49:08 [INFO] api_test - <<< 200 (0.07s)
+2026-05-29 17:49:08 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
+2026-05-29 17:49:08 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=100
