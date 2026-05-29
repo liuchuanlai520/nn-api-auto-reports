@@ -1,0 +1,15 @@
+{
+  "retTime": "2026-05-29 18:04:26",
+  "success": true,
+  "trackId": "283832f83b774d6484e8ab3e72bbca0a",
+  "retData": {
+    "result": 1,
+    "nimToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlZmYiOjE3ODI3Mjc0NjY0NjYsInZhbHVlIjoie1wiYXBwSWRcIjpcIm5uUGNXZWJfOEdJWGFBUmtcIixcInVzZXJJZFwiOlwiMTAwMDU0NDlcIn0ifQ.64mqAdj86ugc4g74r7MaeLq-H20dLmUpnjhodDd5Dqw",
+    "sdkAppid": null,
+    "userImAuthConf": 2,
+    "wsToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJubi1tZXNzYWdpbmciLCJhcHBpZCI6Im5uUGNXZWJfOEdJWGFBUmsiLCJ1c2VySWQiOjEwMDA1NDQ5LCJleHAiOjE4MTE1ODUwNjZ9.JDxmlCIXkHYR64zi6kuvNTlQf1mA8kV6PdxqIVNkU5k",
+    "userSig": ""
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}
