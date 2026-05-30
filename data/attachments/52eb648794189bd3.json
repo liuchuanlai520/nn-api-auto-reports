@@ -1,0 +1,584 @@
+{
+  "retTime": "2026-05-30 17:10:26",
+  "success": true,
+  "trackId": "a5aac24fe4564c2c883ae786703ea505",
+  "retData": {
+    "dictItems": [
+      {
+        "dictCode": "nn_user_prop_type",
+        "dictModels": [
+          {
+            "text": "个性徽章",
+            "value": "1"
+          },
+          {
+            "text": "名片皮肤",
+            "value": "2"
+          },
+          {
+            "text": "头像框",
+            "value": "3"
+          },
+          {
+            "text": "麦位声波",
+            "value": "4"
+          },
+          {
+            "text": "入场特效",
+            "value": "5"
+          },
+          {
+            "text": "入场坐骑",
+            "value": "10"
+          },
+          {
+            "text": "昵称挂件",
+            "value": "12"
+          },
+          {
+            "text": "靓号",
+            "value": "13"
+          },
+          {
+            "text": "平台CDK",
+            "value": "14"
+          },
+          {
+            "text": "用户权益",
+            "value": "16"
+          },
+          {
+            "text": "社区权益",
+            "value": "18"
+          },
+          {
+            "text": "实物兑换",
+            "value": "17"
+          }
+        ]
+      },
+      {
+        "dictCode": "nn_team_server_icon_conf",
+        "dictModels": [
+          {
+            "text": "https://dfs01.nn.com/v2/default/1724637959/9682/全网络.svg",
+            "value": "N服"
+          },
+          {
+            "text": "https://dfs01.nn.com/v2/default/1724637959/9682/全网络.svg",
+            "value": "不限服务器"
+          },
+          {
+            "text": "https://dfs01.nn.com/v2/default/1724637772/792/东南亚服.svg",
+            "value": "东南亚服"
+          },
+          {
+            "text": "https://dfs01.nn.com/v2/default/1724638007/2436/亚服.svg",
+            "value": "亚太"
+          },
+          {
+            "text": "https://dfs01.nn.com/v2/default/1724638007/2436/亚服.svg",
+            "value": "亚服"
+          },
+          {
+            "text": "https://dfs01.nn.com/v2/default/1724637782/5183/俄服.svg",
+            "value": "俄服"
+          },
+          {
+            "text": "https://dfs01.nn.com/v2/default/1724637959/9682/全网络.svg",
+            "value": "其它"
+          },
+          {
+            "text": "https://dfs01.nn.com/v2/default/1724637817/1387/国服.svg",
+            "value": "台服（中国台湾）"
+          },
+          {
+            "text": "https://dfs01.nn.com/v2/default/1724637817/1387/国服.svg",
+            "value": "国服"
+          },
+          {
+            "text": "https://dfs01.nn.com/v2/default/1724637853/590/国际服.svg",
+            "value": "国际服"
+          },
+          {
+            "text": "https://dfs01.nn.com/v2/default/1724637959/9682/全网络.svg",
+            "value": "官方服务器"
+          },
+          {
+            "text": "https://dfs01.nn.com/v2/default/1724637997/4472/新加坡服.svg",
+            "value": "新加坡服"
+          },
+          {
+            "text": "https://dfs01.nn.com/v2/default/1724637974/8653/日服.svg",
+            "value": "日服"
+          },
+          {
+            "text": "https://dfs01.nn.com/v2/default/1724637931/4006/欧服.svg",
+            "value": "欧服"
+          },
+          {
+            "text": "https://dfs01.nn.com/v2/default/1724637795/6018/港服.svg",
+            "value": "港服（中国香港）"
+          },
+          {
+            "text": "https://dfs01.nn.com/v2/default/1724637651/2309/澳服.svg",
+            "value": "澳服"
+          },
+          {
+            "text": "https://dfs01.nn.com/v2/default/1724637959/9682/全网络.svg",
+            "value": "社群服务器"
+          },
+          {
+            "text": "https://dfs01.nn.com/v2/default/1724637959/9682/全网络.svg",
+            "value": "私人服务器"
+          },
+          {
+            "text": "https://dfs01.nn.com/v2/default/1724637910/1775/美服.svg",
+            "value": "美服"
+          },
+          {
+            "text": "https://dfs01.nn.com/v2/default/1724637865/8386/韩服.svg",
+            "value": "韩服"
+          }
+        ]
+      },
+      {
+        "dictCode": "dw_minute_billing_order",
+        "dictModels": [
+          {
+            "text": "35",
+            "value": "dw_low_duration"
+          },
+          {
+            "text": "5",
+            "value": "order_cancel_time"
+          },
+          {
+            "text": "5",
+            "value": "order_end_time"
+          },
+          {
+            "text": "10",
+            "value": "other_order_dw_time_limit"
+          },
+          {
+            "text": "3600",
+            "value": "no_read_order_message_cfg"
+          },
+          {
+            "text": "3",
+            "value": "recharge_page_redundancy_time"
+          },
+          {
+            "text": "1",
+            "value": "add_user_profit_Time"
+          },
+          {
+            "text": "5",
+            "value": "order_finish_time"
+          }
+        ]
+      },
+      {
+        "dictCode": "war_report_area_config",
+        "dictModels": [
+          {
+            "text": "河北",
+            "value": "Hebei"
+          },
+          {
+            "text": "陕西",
+            "value": "Shaanxi"
+          },
+          {
+            "text": "广东",
+            "value": "Guangdong"
+          },
+          {
+            "text": "浙江",
+            "value": "Zhejiang"
+          },
+          {
+            "text": "福建",
+            "value": "Fujian"
+          },
+          {
+            "text": "江苏",
+            "value": "Jiangsu"
+          },
+          {
+            "text": "上海",
+            "value": "Shanghai"
+          },
+          {
+            "text": "北京",
+            "value": "Beijing"
+          },
+          {
+            "text": "云南",
+            "value": "Yunnan"
+          },
+          {
+            "text": "山西",
+            "value": "Shanxi"
+          },
+          {
+            "text": "河南",
+            "value": "Henan"
+          },
+          {
+            "text": "山东",
+            "value": "Shandong"
+          },
+          {
+            "text": "湖北",
+            "value": "Hubei"
+          },
+          {
+            "text": "吉林",
+            "value": "Jilin"
+          },
+          {
+            "text": "天津",
+            "value": "Tianjin"
+          },
+          {
+            "text": "内蒙",
+            "value": "Nei Mongol"
+          },
+          {
+            "text": "湖南",
+            "value": "Hunan"
+          },
+          {
+            "text": "贵州",
+            "value": "Guizhou"
+          },
+          {
+            "text": "江西",
+            "value": "Jiangxi"
+          },
+          {
+            "text": "安徽",
+            "value": "Anhui"
+          },
+          {
+            "text": "辽宁",
+            "value": "Liaoning"
+          },
+          {
+            "text": "四川",
+            "value": "Sichuan"
+          },
+          {
+            "text": "广西",
+            "value": "Guangxi"
+          },
+          {
+            "text": "新疆",
+            "value": "Xinjiang"
+          },
+          {
+            "text": "黑龙江",
+            "value": "Heilongjiang"
+          },
+          {
+            "text": "海南",
+            "value": "Hainan"
+          },
+          {
+            "text": "重庆",
+            "value": "Chongqing"
+          },
+          {
+            "text": "宁夏",
+            "value": "Ningxia"
+          },
+          {
+            "text": "甘肃",
+            "value": "Gansu"
+          },
+          {
+            "text": "青海",
+            "value": "Qinghai"
+          },
+          {
+            "text": "西藏",
+            "value": "Xizang"
+          },
+          {
+            "text": "香港",
+            "value": "Hongkong"
+          },
+          {
+            "text": "澳门",
+            "value": "Macao"
+          },
+          {
+            "text": "台湾",
+            "value": "Taiwan"
+          }
+        ]
+      },
+      {
+        "dictCode": "battles_community",
+        "dictModels": [
+          {
+            "text": "LOL",
+            "value": "7534"
+          },
+          {
+            "text": "PUBG",
+            "value": "7520"
+          },
+          {
+            "text": "Valorant",
+            "value": "56919"
+          }
+        ]
+      },
+      {
+        "dictCode": "dw_order_switch",
+        "dictModels": [
+          {
+            "text": "0",
+            "value": "invite_order_switch"
+          },
+          {
+            "text": "123",
+            "value": "whiteList"
+          },
+          {
+            "text": "1",
+            "value": "self_order_pay_switch"
+          },
+          {
+            "text": "1",
+            "value": "self_order_after_sale_switch"
+          }
+        ]
+      },
+      {
+        "dictCode": "swipe_the_screen",
+        "dictModels": [
+          {
+            "text": "within_seconds",
+            "value": "10"
+          },
+          {
+            "text": "within_frequency",
+            "value": "3"
+          },
+          {
+            "text": "silence_time",
+            "value": "1"
+          },
+          {
+            "text": "exclamation_frequency",
+            "value": "2"
+          }
+        ]
+      },
+      {
+        "dictCode": "immerse_date",
+        "dictModels": [
+          {
+            "text": "0.1",
+            "value": "duration"
+          }
+        ]
+      },
+      {
+        "dictCode": "app_download_code_config",
+        "dictModels": []
+      },
+      {
+        "dictCode": "gift_btn_webp",
+        "dictModels": [
+          {
+            "text": "1",
+            "value": "{\"src\":\"https://test1-dfs01.nn.com/v2/default/1735527593/38/IM礼物图标_00000_iSpt.webp\",\"time\":1000}"
+          }
+        ]
+      },
+      {
+        "dictCode": "channel_active_center",
+        "dictModels": [
+          {
+            "text": "master_title",
+            "value": "组队开黑领福利"
+          },
+          {
+            "text": "tip_title",
+            "value": "必得加速时长、Q币等豪礼"
+          },
+          {
+            "text": "show_conter",
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "dictCode": "nn_leigod_acc_defalut_config",
+        "dictModels": [
+          {
+            "text": "gameId",
+            "value": "109"
+          },
+          {
+            "text": "accId",
+            "value": "9689"
+          }
+        ]
+      },
+      {
+        "dictCode": "nn_yyb_basecf",
+        "dictModels": [
+          {
+            "text": "0",
+            "value": "app_install_mode"
+          },
+          {
+            "text": "2",
+            "value": "install_mode"
+          },
+          {
+            "text": "0",
+            "value": "app_pullup_type"
+          },
+          {
+            "text": "3",
+            "value": "pullup_type"
+          },
+          {
+            "text": "true",
+            "value": "create_app_shortcut"
+          },
+          {
+            "text": "com.tencent.tmgp.cffff",
+            "value": "shielding_gamemg"
+          },
+          {
+            "text": "20",
+            "value": "recent_max_number"
+          }
+        ]
+      },
+      {
+        "dictCode": "community_anchor",
+        "dictModels": [
+          {
+            "text": "6",
+            "value": "max_nums"
+          },
+          {
+            "text": "10",
+            "value": "expire_date"
+          }
+        ]
+      },
+      {
+        "dictCode": "global_search_carousel_time",
+        "dictModels": [
+          {
+            "text": "8",
+            "value": "carousel_time"
+          }
+        ]
+      },
+      {
+        "dictCode": "use_heart_beat_extend_json",
+        "dictModels": [
+          {
+            "text": "1",
+            "value": "extJson"
+          }
+        ]
+      },
+      {
+        "dictCode": "competition_award_type",
+        "dictModels": [
+          {
+            "text": "团队奖",
+            "value": "1"
+          },
+          {
+            "text": "个人奖",
+            "value": "2"
+          }
+        ]
+      },
+      {
+        "dictCode": "competition_reward_type",
+        "dictModels": [
+          {
+            "text": "现金",
+            "value": "1"
+          },
+          {
+            "text": "实物",
+            "value": "2"
+          },
+          {
+            "text": "N豆",
+            "value": "3"
+          }
+        ]
+      }
+    ],
+    "dictValues": [
+      {
+        "dictCode": "playWith_Manage",
+        "value": "90",
+        "key": "10"
+      },
+      {
+        "dictCode": "first_page_gray",
+        "value": "",
+        "key": "first_page"
+      },
+      {
+        "dictCode": "team_game_server_config",
+        "value": "10002231",
+        "key": "platform_user_id"
+      },
+      {
+        "dictCode": "team_game_server_config",
+        "value": "0",
+        "key": "again_join_day"
+      },
+      {
+        "dictCode": "detail11_live_bg",
+        "value": "https://test1-dfs01.nn.com/v2/null/1732009257/8735/s7yvre.jpg",
+        "key": "default_live_bg"
+      },
+      {
+        "dictCode": "beginner_guide_config",
+        "value": "1",
+        "key": "discovery_page_config"
+      },
+      {
+        "dictCode": "topic_hot_show",
+        "value": "1",
+        "key": "isShow"
+      },
+      {
+        "dictCode": "sign_in_show_time",
+        "value": "10",
+        "key": "display"
+      },
+      {
+        "dictCode": "channel_rank_config",
+        "value": "50",
+        "key": "rank_size"
+      },
+      {
+        "dictCode": "global_search_carousel_time",
+        "value": "8",
+        "key": "carousel_time"
+      }
+    ]
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}
