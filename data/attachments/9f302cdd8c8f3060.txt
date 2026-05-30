@@ -1,7 +1,0 @@
-[32mINFO    [0m api_test:login_fixture.py:162 [NN] 正在获取 Token: POST https://test-web.nn.com/webapi/u-nnpc/registerLogin, telNum=17890000900 (attempt 1)
-[32mINFO    [0m api_test:login_fixture.py:184 [NN] Token 获取成功: userId=10005449, nickName=自动化测试大神1
-[32mINFO    [0m api_test:conftest.py:177 [Fixture] dashen HTTP 客户端已创建: base_url=https://test-web.nn.com
-[32mINFO    [0m api_test:request.py:90 >>> GET https://test-web.nn.com/webapi/nn-assist/noviceGuidance/query
-[32mINFO    [0m api_test:request.py:121 <<< 200 (0.65s)
-[32mINFO    [0m api_test:assert_util.py:148 综合断言通过: 状态码 200, 响应体可解析 ✓
-[32mINFO    [0m api_test:assert_util.py:73 断言字段值: 'retCode' 期望=100, 实际=100
