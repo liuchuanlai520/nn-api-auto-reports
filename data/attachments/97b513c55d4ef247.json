@@ -1,0 +1,18 @@
+{
+  "retTime": "2026-05-29 18:15:40",
+  "success": true,
+  "trackId": "00c35df90e3947a6936d320def85803c",
+  "retData": {
+    "gameId": 77,
+    "hasAuth": false,
+    "priceUnit": 4,
+    "gameName": "黑神话悟空（别下架）",
+    "userPrice": "1",
+    "minPrice": null,
+    "maxPrice": null,
+    "gameIcon": "https://test1-dfs01.nn.com/v2/default/1726026381/7807/0xz9pw.jpg",
+    "userId": 154471365
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}
