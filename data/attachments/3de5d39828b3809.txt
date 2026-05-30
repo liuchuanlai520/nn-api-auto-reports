@@ -1,0 +1,7 @@
+[32mINFO    [0m api_test:assert_util.py:47 断言字段存在: 'retData.token' ✓
+[32mINFO    [0m api_test:assert_util.py:47 断言字段存在: 'retData.userId' ✓
+[32mINFO    [0m api_test:assert_util.py:47 断言字段存在: 'retData.nickName' ✓
+[32mINFO    [0m api_test:assert_util.py:47 断言字段存在: 'retData.sex' ✓
+[32mINFO    [0m api_test:assert_util.py:47 断言字段存在: 'retData.nnNumber' ✓
+[32mINFO    [0m api_test:assert_util.py:47 断言字段存在: 'retData.telNum' ✓
+[32mINFO    [0m api_test:assert_util.py:47 断言字段存在: 'retData.createTime' ✓

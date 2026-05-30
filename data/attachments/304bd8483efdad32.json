@@ -1,0 +1,53 @@
+{
+  "retTime": "2026-05-30 16:54:21",
+  "success": true,
+  "trackId": "c983480ab9b84a03a2e7122451e0ee7d",
+  "retData": [
+    {
+      "giftTypeName": "普通礼物",
+      "giftTypeId": 25
+    },
+    {
+      "giftTypeName": "111",
+      "giftTypeId": 26
+    },
+    {
+      "giftTypeName": "222",
+      "giftTypeId": 27
+    },
+    {
+      "giftTypeName": "测试礼物",
+      "giftTypeId": 29
+    },
+    {
+      "giftTypeName": "数1Z@",
+      "giftTypeId": 30
+    },
+    {
+      "giftTypeName": "测试罢了",
+      "giftTypeId": 33
+    },
+    {
+      "giftTypeName": "测试1",
+      "giftTypeId": 34
+    },
+    {
+      "giftTypeName": "测试2",
+      "giftTypeId": 35
+    },
+    {
+      "giftTypeName": "测试3",
+      "giftTypeId": 36
+    },
+    {
+      "giftTypeName": "活动限定",
+      "giftTypeId": 37
+    },
+    {
+      "giftTypeName": "贵族",
+      "giftTypeId": 38
+    }
+  ],
+  "retCode": "100",
+  "retMsg": "操作成功"
+}
