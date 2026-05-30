@@ -1,0 +1,16 @@
+{
+  "retTime": "2026-05-30 15:03:34",
+  "success": true,
+  "trackId": "7b10343d13994ee78ad75bc26216ddfe",
+  "retData": {
+    "busyState": 0,
+    "firstChatReply": "",
+    "firstOrderActivity": 0,
+    "orderReply": "",
+    "firstMessageReply": "",
+    "hasJump": "3",
+    "hasWan": "1"
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}
