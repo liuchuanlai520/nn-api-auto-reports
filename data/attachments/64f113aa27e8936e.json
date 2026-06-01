@@ -1,0 +1,18 @@
+{
+  "retTime": "2026-06-01 16:16:20",
+  "success": true,
+  "trackId": "ccd3c5ff117948d9b0dc3d487b3f7384",
+  "retData": {
+    "gameServer": 0,
+    "voiceLevitationBall": 0,
+    "gameSpeed": 0,
+    "teamRecruitment": 0,
+    "personalServer": 0,
+    "communityHall": 2,
+    "joinServer": 0,
+    "teamList": 0,
+    "serverStartGame": 0
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}
