@@ -1,0 +1,10 @@
+{
+  "retTime": "2026-06-01 11:16:04",
+  "success": true,
+  "trackId": "c28b7ae7371549b799bbdc655d068599",
+  "retData": {
+    "nbBalance": 99815229.0
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

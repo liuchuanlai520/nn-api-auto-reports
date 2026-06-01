@@ -1,0 +1,4 @@
+INFO     api_test:request.py:90 >>> POST https://test-web.nn.com/webapi/nn-assist/inside/msg/topInfoV2
+INFO     api_test:request.py:121 <<< 200 (0.04s)
+INFO     api_test:assert_util.py:148 综合断言通过: 状态码 200, 响应体可解析 ✓
+INFO     api_test:assert_util.py:73 断言字段值: 'retCode' 期望=100, 实际=100

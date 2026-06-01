@@ -1,0 +1,29 @@
+{
+  "retTime": "2026-06-01 10:15:05",
+  "success": true,
+  "trackId": "775e16b3d9a640779fb256ceb85cc7dc",
+  "retData": [
+    {
+      "channelType": 7,
+      "content": ""
+    },
+    {
+      "channelType": 6,
+      "content": ""
+    },
+    {
+      "channelType": 5,
+      "content": ""
+    },
+    {
+      "channelType": -98,
+      "content": "<p>NN快乐、友善、文明健康的游戏环境需要大家共同维护，违规行为欢迎大家纠正举报！</p>"
+    },
+    {
+      "channelType": -99,
+      "content": "<p>NN快乐、友善、文明健康的游戏环境需要大家共同维护，违规行为欢迎大家纠正举报！<br /></p>"
+    }
+  ],
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

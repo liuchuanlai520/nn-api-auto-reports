@@ -1,0 +1,92 @@
+{
+  "retTime": "2026-05-30 18:09:30",
+  "success": true,
+  "trackId": "1ebcad3ec2164137b5569fb9234c42bc",
+  "retData": {
+    "current": 1,
+    "total": 2,
+    "pages": 1,
+    "size": 15,
+    "pageNo": 1,
+    "pageSize": 1,
+    "list": [
+      {
+        "userStatus": 0,
+        "nickNamePY": "",
+        "nnNumber": 111111,
+        "onlineStatus": 0,
+        "serverMemberId": null,
+        "admin": true,
+        "hasOpen": null,
+        "roleType": 1,
+        "serverId": 64991,
+        "nickNameServer": "",
+        "point": 0,
+        "goodNumLevel": 3,
+        "serverUserName": "",
+        "offlineTime": 1766570990000,
+        "userHasJump": "",
+        "userGradeStatus": null,
+        "goodNum": 111111,
+        "userRoleName": "",
+        "packInfoVoList": [],
+        "onlineDevices": [],
+        "userGrade": null,
+        "nickName": "Thor's son",
+        "sex": "man",
+        "userUrlNn": "https://test1-dfs01.nn.com/v2/player/1757744137/3847/13bbz0.png",
+        "userId": 154459477,
+        "vipExpire": null,
+        "createTime": null,
+        "serverType": 0,
+        "roleName": [],
+        "userRoleInfos": [],
+        "userActionProcessInfoResp": null
+      },
+      {
+        "userStatus": 0,
+        "nickNamePY": "",
+        "nnNumber": 65762595,
+        "onlineStatus": 0,
+        "serverMemberId": null,
+        "admin": true,
+        "hasOpen": null,
+        "roleType": 4,
+        "serverId": 64991,
+        "nickNameServer": "",
+        "point": 0,
+        "goodNumLevel": null,
+        "serverUserName": "自动化测试账号168",
+        "offlineTime": 1764897331000,
+        "userHasJump": "",
+        "userGradeStatus": null,
+        "goodNum": null,
+        "userRoleName": "",
+        "packInfoVoList": [],
+        "onlineDevices": [],
+        "userGrade": null,
+        "nickName": "自动化测试大神1",
+        "sex": "man",
+        "userUrlNn": "https://test1-dfs01.nn.com/v3/userImg/1733985153/1837/c0h4u5.png",
+        "userId": 10005449,
+        "vipExpire": null,
+        "createTime": null,
+        "serverType": 0,
+        "roleName": [
+          "超管"
+        ],
+        "userRoleInfos": [
+          {
+            "roleId": null,
+            "roleName": "",
+            "roleColour": "",
+            "roleType": 4
+          }
+        ],
+        "userActionProcessInfoResp": null
+      }
+    ]
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

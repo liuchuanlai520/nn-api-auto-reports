@@ -1,0 +1,11 @@
+{
+  "retTime": "2026-05-30 17:58:15",
+  "success": true,
+  "trackId": "c19ef42420c1468294a3f2c243b36726",
+  "retData": {
+    "isQueue": null,
+    "result": true
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}
