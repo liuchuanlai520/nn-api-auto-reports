@@ -1,3 +1,0 @@
-2026-06-01 11:13:47 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/u-nnpc/registerLogin
-2026-06-01 11:13:48 [INFO] api_test - <<< 200 (0.73s)
-2026-06-01 11:13:48 [INFO] api_test - 断言字段值: 'retCode' 期望=503, 实际=503

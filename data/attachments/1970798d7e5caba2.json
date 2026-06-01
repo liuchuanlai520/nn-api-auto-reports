@@ -1,8 +1,0 @@
-{
-  "retTime": "2026-06-01 13:54:24",
-  "success": false,
-  "trackId": "3be313ff5d8d47fe9d0f7425e80ef91d",
-  "retData": null,
-  "retCode": "501",
-  "retMsg": "参数校验失败: {orderNo —> null: 订单号不允许为空, }"
-}

@@ -1,5 +1,0 @@
-2026-05-30 17:45:01 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/nchannel/channel/business/addPersonalServerTopicChannel
-2026-05-30 17:45:02 [INFO] api_test - <<< 200 (0.52s)
-2026-05-30 17:45:02 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
-2026-05-30 17:45:02 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=100
-2026-05-30 17:45:02 [INFO] api_test - 断言字段存在: 'retData' ✓

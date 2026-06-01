@@ -1,3 +1,0 @@
-INFO     api_test:request.py:90 >>> POST https://test-web.nn.com/webapi/u-nnpc/registerLogin
-INFO     api_test:request.py:121 <<< 200 (0.02s)
-INFO     api_test:assert_util.py:73 断言字段值: 'retCode' 期望=501, 实际=501

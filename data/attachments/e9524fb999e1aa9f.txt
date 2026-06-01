@@ -1,2 +1,0 @@
-INFO     api_test:request.py:90 >>> POST https://test-web.nn.com/webapi/wan/recommend/v1/manager/click
-INFO     api_test:request.py:121 <<< 200 (0.32s)

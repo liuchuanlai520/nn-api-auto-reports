@@ -1,2 +1,0 @@
-INFO     api_test:request.py:90 >>> POST https://test-web.nn.com/webapi/nchannel/channel/business/batAddPersonalServerTopicChannel
-INFO     api_test:request.py:121 <<< 200 (0.04s)

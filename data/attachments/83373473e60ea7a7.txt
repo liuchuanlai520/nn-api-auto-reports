@@ -1,4 +1,0 @@
-2026-06-01 11:15:48 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/privilege/api/v1/userPhoto/update
-2026-06-01 11:15:48 [INFO] api_test - <<< 200 (0.03s)
-2026-06-01 11:15:48 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
-2026-06-01 11:15:48 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=100
