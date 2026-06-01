@@ -1,0 +1,5 @@
+[32mINFO    [0m api_test:conftest.py:569 [Fixture] opapi dashen 客户端已创建: base_url=https://test-opapi.nn.com
+[32mINFO    [0m api_test:request.py:90 >>> GET https://test-opapi.nn.com/nn-assist/god/center/permCheck
+[32mINFO    [0m api_test:request.py:121 <<< 200 (0.70s)
+[32mINFO    [0m api_test:assert_util.py:156 综合断言通过: 状态码 200, 响应体可解析 ✓
+[32mINFO    [0m api_test:assert_util.py:73 断言字段值: 'retCode' 期望=100, 实际=100
