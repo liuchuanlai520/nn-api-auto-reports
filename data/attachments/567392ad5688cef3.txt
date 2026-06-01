@@ -1,7 +1,0 @@
-[32mINFO    [0m api_test:assert_util.py:73 断言字段值: 'retCode' 期望=100, 实际=100
-[32mINFO    [0m api_test:assert_util.py:73 断言字段值: 'success' 期望=True, 实际=True
-[32mINFO    [0m api_test:assert_util.py:47 断言字段存在: 'retData.token' ✓
-[32mINFO    [0m api_test:assert_util.py:47 断言字段存在: 'retData.userId' ✓
-[32mINFO    [0m api_test:assert_util.py:47 断言字段存在: 'retData.nickName' ✓
-[32mINFO    [0m api_test:assert_util.py:47 断言字段存在: 'retData.telNum' ✓
-[32mINFO    [0m api_test:assert_util.py:73 断言字段值: 'retData.telNum' 期望=17890000900, 实际=17890000900
