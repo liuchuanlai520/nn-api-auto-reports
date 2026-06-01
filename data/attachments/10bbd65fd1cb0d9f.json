@@ -1,0 +1,80 @@
+{
+  "retTime": "2026-06-01 17:20:56",
+  "success": true,
+  "trackId": "b04613176b464e5b873aea251858bc7e",
+  "retData": {
+    "current": 1,
+    "total": 5,
+    "hitCount": false,
+    "pages": 1,
+    "size": 10,
+    "records": [
+      {
+        "lastPayTime": "2026-05-30 14:26:42",
+        "bossAvatar": "https://test1-dfs01.nn.com/v3/userImg/1734075604/4277/2ly10e.png",
+        "lastPayGameName": "金铲铲之战",
+        "bossNickName": "自动化普通用户",
+        "payNum": 20314,
+        "onlineDevices": [],
+        "sumConsumeAmount": 832464.0,
+        "userHasJump": "6",
+        "bossUserId": 10005567
+      },
+      {
+        "lastPayTime": "2026-05-30 14:25:00",
+        "bossAvatar": "https://test1-dfs01.nn.com/v2/user_new_avatar/1724848469/1049/58x4tz.png",
+        "lastPayGameName": "",
+        "bossNickName": "自动化用户2",
+        "payNum": 2217,
+        "onlineDevices": [],
+        "sumConsumeAmount": 22736.0,
+        "userHasJump": "",
+        "bossUserId": 154469627
+      },
+      {
+        "lastPayTime": "2024-12-24 17:36:48",
+        "bossAvatar": "https://test1-dfs01.nn.com/v2/userPhoto/1726212777/2273/yrh4a2.png",
+        "lastPayGameName": "顺儿顺",
+        "bossNickName": "爱爱神丘比特",
+        "payNum": 1,
+        "onlineDevices": [
+          {
+            "deviceType": 4,
+            "appId": "nnPcWeb_8GIXaARk",
+            "deviceId": "WEB__10000604_6a1d44a5e4b0e677bc7f96f3",
+            "userId": 10000604
+          }
+        ],
+        "sumConsumeAmount": 400.0,
+        "userHasJump": "3",
+        "bossUserId": 10000604
+      },
+      {
+        "lastPayTime": "2025-01-21 17:05:15",
+        "bossAvatar": "https://test1-dfs01.nn.com/v3/userImg/1718884084/8061/s1w7nr.png",
+        "lastPayGameName": "",
+        "bossNickName": "用户3",
+        "payNum": 1,
+        "onlineDevices": [],
+        "sumConsumeAmount": 104.0,
+        "userHasJump": "3",
+        "bossUserId": 10000771
+      },
+      {
+        "lastPayTime": "2025-05-29 10:19:18",
+        "bossAvatar": "https://test1-dfs01.nn.com/v3/userImg/1734078397/463/3ls074.png",
+        "lastPayGameName": "金铲铲之战",
+        "bossNickName": "123啊",
+        "payNum": 1,
+        "onlineDevices": [],
+        "sumConsumeAmount": 100.0,
+        "userHasJump": "3",
+        "bossUserId": 10000816
+      }
+    ],
+    "searchCount": true,
+    "orders": []
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

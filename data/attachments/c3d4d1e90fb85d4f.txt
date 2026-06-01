@@ -1,0 +1,18 @@
+[32mINFO    [0m api_test:request.py:90 >>> POST https://test-web.nn.com/webapi/nchannel/channel/business/openPersonalServerBlackList
+[32mINFO    [0m api_test:request.py:121 <<< 200 (0.07s)
+[32mINFO    [0m api_test:request.py:90 >>> POST https://test-web.nn.com/webapi/nchannel/channel/business/addPersonalServerBlackList
+[32mINFO    [0m api_test:request.py:121 <<< 200 (0.11s)
+[32mINFO    [0m api_test:assert_util.py:156 综合断言通过: 状态码 200, 响应体可解析 ✓
+[32mINFO    [0m api_test:assert_util.py:73 断言字段值: 'retCode' 期望=100, 实际=100
+[32mINFO    [0m api_test:request.py:90 >>> POST https://test-web.nn.com/webapi/nchannel/channel/business/getBlackList
+[32mINFO    [0m api_test:request.py:121 <<< 200 (0.05s)
+[32mINFO    [0m api_test:assert_util.py:156 综合断言通过: 状态码 200, 响应体可解析 ✓
+[32mINFO    [0m api_test:assert_util.py:73 断言字段值: 'retCode' 期望=100, 实际=100
+[32mINFO    [0m api_test:request.py:90 >>> POST https://test-web.nn.com/webapi/nchannel/channel/business/openPersonalServerBlackList
+[32mINFO    [0m api_test:request.py:121 <<< 200 (0.08s)
+[32mINFO    [0m api_test:assert_util.py:156 综合断言通过: 状态码 200, 响应体可解析 ✓
+[32mINFO    [0m api_test:assert_util.py:73 断言字段值: 'retCode' 期望=100, 实际=100
+[32mINFO    [0m api_test:request.py:90 >>> POST https://test-web.nn.com/webapi/nchannel/channel/business/getBlackList
+[32mINFO    [0m api_test:request.py:121 <<< 200 (0.03s)
+[32mINFO    [0m api_test:assert_util.py:156 综合断言通过: 状态码 200, 响应体可解析 ✓
+[32mINFO    [0m api_test:assert_util.py:73 断言字段值: 'retCode' 期望=100, 实际=100

@@ -1,0 +1,12 @@
+{
+  "retTime": "2026-06-01 17:20:55",
+  "success": true,
+  "trackId": "7f14add61f5b4ea4afd020919cc0e0b5",
+  "retData": {
+    "serverBossSum": 5,
+    "serverBossNew": 0,
+    "serverBossWeek": 0
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

@@ -1,0 +1,11 @@
+{
+  "retTime": "2026-06-01 17:21:31",
+  "success": true,
+  "trackId": "01e7d4838bfd40859c25942a8932bf51",
+  "retData": {
+    "prePaid": false,
+    "settlement": false
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}
