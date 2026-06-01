@@ -1,0 +1,49 @@
+{
+  "retTime": "2026-06-01 17:32:59",
+  "success": true,
+  "trackId": "d83dd8f902ef4c76885d1292928f6e66",
+  "retData": [
+    {
+      "nnAmount": 10.0,
+      "appId": "",
+      "dbId": 9
+    },
+    {
+      "nnAmount": 35.0,
+      "appId": "",
+      "dbId": 10
+    },
+    {
+      "nnAmount": 998.0,
+      "appId": "",
+      "dbId": 12
+    },
+    {
+      "nnAmount": 1000.0,
+      "appId": "",
+      "dbId": 11
+    },
+    {
+      "nnAmount": 3250.0,
+      "appId": "",
+      "dbId": 42
+    },
+    {
+      "nnAmount": 5660.0,
+      "appId": "",
+      "dbId": 37
+    },
+    {
+      "nnAmount": 6666.0,
+      "appId": "",
+      "dbId": 41
+    },
+    {
+      "nnAmount": 10000.0,
+      "appId": "",
+      "dbId": 13
+    }
+  ],
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

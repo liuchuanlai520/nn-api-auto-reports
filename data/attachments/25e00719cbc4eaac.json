@@ -1,0 +1,13 @@
+{
+  "retTime": "2026-06-01 17:32:59",
+  "success": true,
+  "trackId": "683a86a6ad4745a5a4a612544c0ac3b4",
+  "retData": {
+    "isFirstBuy": 1,
+    "limitTimeBuyNum": 0,
+    "propId": null,
+    "userId": null
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

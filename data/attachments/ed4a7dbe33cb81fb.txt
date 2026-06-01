@@ -1,0 +1,8 @@
+[32mINFO    [0m api_test:login_fixture.py:162 [NN] 正在获取 Token: POST https://test-web.nn.com/webapi/u-nnpc/registerLogin, telNum=17880000900 (attempt 1)
+[32mINFO    [0m api_test:login_fixture.py:184 [NN] Token 获取成功: userId=10005567, nickName=自动化普通用户
+[32mINFO    [0m api_test:conftest.py:516 [Fixture] user3 HTTP 客户端已创建(带玩订单专用): base_url=https://test-web.nn.com
+[32mINFO    [0m api_test:request.py:90 >>> POST https://test-web.nn.com/webapi/wan/api/v1/user/chat/info/send
+[32mINFO    [0m api_test:request.py:121 <<< 200 (0.65s)
+[32mINFO    [0m api_test:assert_util.py:156 综合断言通过: 状态码 200, 响应体可解析 ✓
+[32mINFO    [0m api_test:assert_util.py:73 断言字段值: 'success' 期望=True, 实际=True
+[32mINFO    [0m api_test:assert_util.py:73 断言字段值: 'retMsg' 期望=操作成功, 实际=操作成功

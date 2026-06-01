@@ -1,0 +1,27 @@
+{
+  "retTime": "2026-06-01 17:32:59",
+  "success": true,
+  "trackId": "62f1387e66974800987c9bfcef0f68c5",
+  "retData": {
+    "current": 1,
+    "total": 1,
+    "hitCount": false,
+    "pages": 1,
+    "size": 20,
+    "records": [
+      {
+        "orderNo": 20241212756912,
+        "payAmount": 0.7,
+        "payType": 3,
+        "nnVoucher": 7.0,
+        "payTime": "2024-12-12 16:43:37",
+        "remark": "N宝兑换N币：7",
+        "userId": 10005449
+      }
+    ],
+    "searchCount": true,
+    "orders": []
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}
