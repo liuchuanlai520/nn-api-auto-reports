@@ -1,1 +1,0 @@
-INFO     api_test:assert_util.py:47 断言字段存在: 'retCode' ✓
