@@ -1,8 +1,0 @@
-{
-  "retTime": "2026-06-01 11:25:10",
-  "success": false,
-  "trackId": "af690e5d131842029e2021fe0b88c7bd",
-  "retData": null,
-  "retCode": "501",
-  "retMsg": "参数校验失败: {telNum —> : telNum不能为空, }"
-}
