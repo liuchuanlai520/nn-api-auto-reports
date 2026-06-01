@@ -1,0 +1,11 @@
+2026-06-01 11:23:51 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/u-nnpc/api/v2/userInfo/findMyUserInfo
+2026-06-01 11:23:51 [INFO] api_test - <<< 200 (0.06s)
+2026-06-01 11:23:51 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
+2026-06-01 11:23:51 [INFO] api_test - 断言字段存在: 'retData.userInfo.userId' ✓
+2026-06-01 11:23:51 [INFO] api_test - 断言字段存在: 'retData.userInfo.nickName' ✓
+2026-06-01 11:23:51 [INFO] api_test - 断言字段存在: 'retData.userInfo.sex' ✓
+2026-06-01 11:23:51 [INFO] api_test - 断言字段存在: 'retData.userInfo.telNum' ✓
+2026-06-01 11:23:51 [INFO] api_test - 断言字段存在: 'retData.userInfo.nnNumber' ✓
+2026-06-01 11:23:51 [INFO] api_test - 断言字段存在: 'retData.userInfo.userType' ✓
+2026-06-01 11:23:51 [INFO] api_test - 断言字段存在: 'retData.userInfo.onlineStatus' ✓
+2026-06-01 11:23:51 [INFO] api_test - 断言字段存在: 'retData.userInfo.createTime' ✓

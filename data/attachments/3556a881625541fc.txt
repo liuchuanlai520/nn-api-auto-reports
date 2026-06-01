@@ -1,0 +1,4 @@
+2026-06-01 11:13:42 [INFO] api_test - >>> GET https://test-web.nn.com/webapi/ncoperation/nc/operation/gameName/queryGameNameInfo
+2026-06-01 11:13:42 [INFO] api_test - <<< 200 (0.03s)
+2026-06-01 11:13:42 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
+2026-06-01 11:13:42 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=100

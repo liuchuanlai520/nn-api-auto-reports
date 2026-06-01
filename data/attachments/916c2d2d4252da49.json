@@ -1,0 +1,11 @@
+{
+  "retTime": "2026-06-01 11:13:42",
+  "success": true,
+  "trackId": "38781057f5a44a4c9666b1aca88bbf88",
+  "retData": {
+    "privilegeFlag": false,
+    "gradeFlag": false
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

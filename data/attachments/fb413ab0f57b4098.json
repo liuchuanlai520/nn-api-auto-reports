@@ -1,0 +1,28 @@
+{
+  "retTime": "2026-06-01 11:48:31",
+  "success": true,
+  "trackId": "3a0b19e5ad134872b7d697d576732587",
+  "retData": {
+    "messageTime": "2026-05-29 16:18:07",
+    "hotList": [
+      {
+        "time": "2026-05-29 16:18:07",
+        "pointStatus": 1,
+        "type": 1
+      },
+      {
+        "time": "2026-05-29 16:18:07",
+        "pointStatus": 1,
+        "type": 2
+      },
+      {
+        "time": "2026-05-29 16:18:07",
+        "pointStatus": 0,
+        "type": 3
+      }
+    ],
+    "pointStatus": 1
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

@@ -1,0 +1,2 @@
+2026-06-01 13:53:38 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/wan/recommend/v1/manager/click
+2026-06-01 13:53:39 [INFO] api_test - <<< 200 (0.03s)

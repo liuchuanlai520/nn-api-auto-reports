@@ -1,0 +1,4 @@
+2026-06-01 13:47:21 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/leigod-rtc/api/v1/rtcAuth/initRtcConnect
+2026-06-01 13:47:21 [INFO] api_test - <<< 200 (0.90s)
+2026-06-01 13:47:21 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
+2026-06-01 13:47:21 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=100

@@ -1,0 +1,6 @@
+INFO     api_test:request.py:90 >>> POST https://test-web.nn.com/webapi/nchannel/channel/business/batAddPersonalServerTopicChannel
+INFO     api_test:request.py:121 <<< 200 (0.67s)
+INFO     api_test:request.py:90 >>> GET https://test-web.nn.com/webapi/nchannel/channel/business/enterPersonalTopicChannelValidate/59144/1002573781
+INFO     api_test:request.py:121 <<< 200 (0.23s)
+INFO     api_test:assert_util.py:148 综合断言通过: 状态码 200, 响应体可解析 ✓
+INFO     api_test:assert_util.py:73 断言字段值: 'retCode' 期望=100, 实际=100

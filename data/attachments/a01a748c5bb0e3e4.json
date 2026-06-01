@@ -1,0 +1,110 @@
+{
+  "retTime": "2026-06-01 13:53:03",
+  "success": true,
+  "trackId": "da87c732ad1e41d0aa26a7e37cd33d44",
+  "retData": [
+    {
+      "onlineDeveceTypes": [],
+      "friendUser": {
+        "nnNumber": 111111,
+        "signature": "",
+        "masterHasJump": "",
+        "onlineStatus": 0,
+        "orderStatus": 0,
+        "cityId": null,
+        "experience": 80558109,
+        "hasOpen": 1,
+        "telNum": "17386136919",
+        "userHasJump": "3",
+        "userGradeStatus": 1,
+        "hasMaster": "",
+        "packInfoVoList": [
+          {
+            "giftPackType": "3",
+            "goodNumLevel": null,
+            "expirationTime": 1777173393296,
+            "id": 14042,
+            "goodNum": null
+          },
+          {
+            "giftPackType": "5",
+            "goodNumLevel": null,
+            "expirationTime": 1761653706000,
+            "id": 1155,
+            "goodNum": null
+          },
+          {
+            "giftPackType": "10",
+            "goodNumLevel": null,
+            "expirationTime": 1764141647000,
+            "id": 1134,
+            "goodNum": null
+          },
+          {
+            "giftPackType": "1",
+            "goodNumLevel": null,
+            "expirationTime": 1740984217000,
+            "id": 1003,
+            "goodNum": null
+          },
+          {
+            "giftPackType": "2",
+            "goodNumLevel": null,
+            "expirationTime": 1724309060000,
+            "id": 1010,
+            "goodNum": null
+          },
+          {
+            "giftPackType": "4",
+            "goodNumLevel": null,
+            "expirationTime": 1754557666000,
+            "id": 1015,
+            "goodNum": null
+          },
+          {
+            "giftPackType": "12",
+            "goodNumLevel": null,
+            "expirationTime": 1770100517000,
+            "id": 1158,
+            "goodNum": null
+          },
+          {
+            "giftPackType": "13",
+            "goodNumLevel": 3,
+            "expirationTime": 4895631588431,
+            "id": 432,
+            "goodNum": 111111
+          }
+        ],
+        "onlineDevices": [],
+        "userGrade": 100,
+        "isDelete": 0,
+        "nickName": "Thor's son",
+        "sex": "man",
+        "userUrlNn": "https://test1-dfs01.nn.com/v2/player/1757744137/3847/13bbz0.png",
+        "extendInfo": "",
+        "provinceId": 0,
+        "userId": 154459477,
+        "hasWan": "1",
+        "imConfMapStr": "",
+        "createTime": "2024-05-22 10:07:50",
+        "confMapStr": "",
+        "userType": "general"
+      },
+      "dbIdStr": "1937487257783070781",
+      "onlineStatus": 0,
+      "updateTime": "2025-06-24 20:25:34",
+      "userId": 10005449,
+      "createTime": "2025-06-24 20:25:33",
+      "nameInitial": "T",
+      "dbId": 1937487257783070781,
+      "extra": "",
+      "alias": "",
+      "friendUid": 154459477,
+      "onlineStatusSort": 0,
+      "status": 0
+    }
+  ],
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

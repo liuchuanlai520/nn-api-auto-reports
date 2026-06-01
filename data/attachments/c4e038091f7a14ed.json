@@ -1,0 +1,8 @@
+{
+  "retTime": "2026-06-01 11:10:21",
+  "success": false,
+  "trackId": "6335b697843842639d4c650274f6e478",
+  "retData": null,
+  "retCode": "501",
+  "retMsg": "参数校验失败: {targetIds —> []: 目标用户Id不允许为空, }"
+}

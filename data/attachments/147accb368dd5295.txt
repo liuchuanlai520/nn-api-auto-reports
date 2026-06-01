@@ -1,0 +1,17 @@
+URL: https://test-web.nn.com/webapi/wan/recommend/v1/manager/click
+Method: POST
+Headers: {
+  "User-Agent": "python-requests/2.31.0",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive",
+  "appid": "nnPcWeb_8GIXaARk",
+  "registercanal": "guanwang_nn",
+  "busitype": "nn_aksjfdasoifnkls",
+  "deviceid": "758724f7882d9268ec5bbbc2e7d85261",
+  "adan": "userSourceType=0",
+  "reqchannel": "4",
+  "version": "201048",
+  "content-type": "application/json",
+  "token": "nnPcWeb_8GIXaARk27fdc42aa82a444b943bff017386a900"
+}

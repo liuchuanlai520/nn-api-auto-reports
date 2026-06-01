@@ -1,0 +1,8 @@
+{
+  "retTime": "2026-06-01 13:53:39",
+  "success": false,
+  "trackId": "f3a3df9358e4441c9d84421589d9a9b2",
+  "retData": null,
+  "retCode": "501",
+  "retMsg": "参数校验失败: {serverId —> null: 社区ID不能为空, channelId —> null: 频道ID不能为空, }"
+}

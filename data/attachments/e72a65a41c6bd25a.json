@@ -1,0 +1,16 @@
+{
+  "retTime": "2026-06-01 13:53:17",
+  "success": true,
+  "trackId": "b7f4354d912249faa8d94a0416379c1f",
+  "retData": {
+    "userGameRecordInfoSendSwitch": 1,
+    "serverGameList": [],
+    "gameNameSwitchResp": {
+      "gameRecordInfoShowSwitch": 1,
+      "globalAuthSwitch": 1,
+      "gameIdBindSwitch": 1
+    }
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

@@ -1,0 +1,6 @@
+INFO     api_test:login_fixture.py:137 [NN] nimToken 获取成功: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUz...
+INFO     api_test:conftest.py:216 [Fixture] IM HTTP 客户端已创建: base_url=https://test-web.nn.com
+INFO     api_test:request.py:90 >>> GET https://test-web.nn.com/api/imapi/msg/sessionList
+INFO     api_test:request.py:121 <<< 200 (0.68s)
+INFO     api_test:assert_util.py:148 综合断言通过: 状态码 200, 响应体可解析 ✓
+INFO     api_test:assert_util.py:73 断言字段值: 'code' 期望=0, 实际=0

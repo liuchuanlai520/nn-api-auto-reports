@@ -1,0 +1,86 @@
+{
+  "retTime": "2026-06-01 11:43:33",
+  "success": true,
+  "trackId": "6cc10564ce324ca4b40f27f0870fbaec",
+  "retData": {
+    "photoList": [],
+    "hasMaster": "",
+    "userInfo": {
+      "isBef": false,
+      "nnNumber": 65762595,
+      "signature": "嘎嘎嘎",
+      "isDelete": 0,
+      "nickName": "自动化测试大神1",
+      "onlineStatus": 1,
+      "sex": "man",
+      "userUrlNn": "https://test1-dfs01.nn.com/v3/userImg/1733985153/1837/c0h4u5.png",
+      "cityId": null,
+      "vipExpireTimestamp": null,
+      "provinceId": 0,
+      "userId": 10005449,
+      "goodNumLevel": null,
+      "vipExpire": null,
+      "userLevel": null,
+      "cityName": null,
+      "createTime": "2024-12-12 14:32:11",
+      "countyId": null,
+      "currentTimestamp": null,
+      "telNum": "17890000900",
+      "provinceName": null,
+      "userType": "general",
+      "isDel": false,
+      "goodNum": null
+    },
+    "avatarFrameGiftId": 8006,
+    "packInfoVoList": [
+      {
+        "giftPackType": "3",
+        "goodNumLevel": null,
+        "expirationTime": 1752581492000,
+        "id": 8006,
+        "goodNum": null
+      },
+      {
+        "giftPackType": "12",
+        "goodNumLevel": null,
+        "expirationTime": 1752581492000,
+        "id": 8009,
+        "goodNum": null
+      }
+    ],
+    "onlineDevices": [
+      {
+        "deviceType": 4,
+        "appId": "nnPcWeb_8GIXaARk",
+        "deviceId": "WEB__10005449_6a1cfc77e4b0e677bc7f96a9",
+        "userId": 10005449
+      }
+    ],
+    "userGrade": 100,
+    "userExtendConfMap": {},
+    "avatarFrameExpirationTime": 1752581492000,
+    "masterHasJump": "",
+    "onlineStatus": 1,
+    "orderStatus": 0,
+    "userGiftExhibitionNumStat": {
+      "totalGiftNum": 12,
+      "lightGiftNum": 0
+    },
+    "isPayUser": true,
+    "experience": 500000000,
+    "extendInfo": "",
+    "hasOpen": 1,
+    "hasWan": "1",
+    "userGiftWallNumStat": {
+      "totalGiftNum": 111,
+      "lightGiftNum": 20
+    },
+    "imConfMapStr": "",
+    "confMapStr": "",
+    "userHasJump": "3",
+    "superAdmin": true,
+    "userGradeStatus": 1
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

@@ -1,0 +1,18 @@
+2026-06-01 11:22:06 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/nchannel/channel/business/openPersonalServerBlackList
+2026-06-01 11:22:06 [INFO] api_test - <<< 200 (0.06s)
+2026-06-01 11:22:06 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/nchannel/channel/business/addPersonalServerBlackList
+2026-06-01 11:22:06 [INFO] api_test - <<< 200 (0.10s)
+2026-06-01 11:22:06 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
+2026-06-01 11:22:06 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=100
+2026-06-01 11:22:06 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/nchannel/channel/business/getBlackList
+2026-06-01 11:22:06 [INFO] api_test - <<< 200 (0.06s)
+2026-06-01 11:22:06 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
+2026-06-01 11:22:06 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=100
+2026-06-01 11:22:06 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/nchannel/channel/business/openPersonalServerBlackList
+2026-06-01 11:22:06 [INFO] api_test - <<< 200 (0.08s)
+2026-06-01 11:22:06 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
+2026-06-01 11:22:06 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=100
+2026-06-01 11:22:06 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/nchannel/channel/business/getBlackList
+2026-06-01 11:22:06 [INFO] api_test - <<< 200 (0.03s)
+2026-06-01 11:22:06 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
+2026-06-01 11:22:06 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=100

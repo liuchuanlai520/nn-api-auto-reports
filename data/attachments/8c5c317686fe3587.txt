@@ -1,0 +1,10 @@
+URL: https://test-web.nn.com/api/lsb/loadbalance
+Method: GET
+Headers: {
+  "User-Agent": "python-requests/2.31.0",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive",
+  "authorization": "Leigod eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlZmYiOjE3ODI5NjE4MTMyMjUsInZhbHVlIjoie1wiYXBwSWRcIjpcIm5uUGNXZWJfOEdJWGFBUmtcIixcInVzZXJJZFwiOlwiMTAwMDU0NDlcIn0ifQ.ODr13zAf1DasezRuPxZ2mdTRtpi47sajxft1gb8pv5Q",
+  "reqchannel": "4"
+}

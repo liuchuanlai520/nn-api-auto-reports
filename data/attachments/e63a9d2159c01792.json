@@ -1,0 +1,14 @@
+{
+  "retTime": "2026-06-01 13:53:03",
+  "success": true,
+  "trackId": "2e6da7a15de242ebb0ed0ff956519dff",
+  "retData": {
+    "roomServerId": null,
+    "serverType": null,
+    "serverName": "一起开黑的社区666",
+    "serverId": 52198,
+    "channelId": null
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

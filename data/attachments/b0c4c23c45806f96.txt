@@ -1,0 +1,25 @@
+INFO     api_test:request.py:90 >>> GET https://test-web.nn.com/webapi/wan/user/other/info/v1/update/status/4
+INFO     api_test:request.py:121 <<< 200 (0.48s)
+INFO     api_test:assert_util.py:148 综合断言通过: 状态码 200, 响应体可解析 ✓
+INFO     api_test:assert_util.py:73 断言字段值: 'retCode' 期望=100, 实际=100
+INFO     api_test:assert_util.py:73 断言字段值: 'success' 期望=True, 实际=True
+INFO     api_test:request.py:90 >>> GET https://test-web.nn.com/webapi/wan/user/other/info/v1/update/status/6
+INFO     api_test:request.py:121 <<< 200 (0.85s)
+INFO     api_test:assert_util.py:148 综合断言通过: 状态码 200, 响应体可解析 ✓
+INFO     api_test:assert_util.py:73 断言字段值: 'retCode' 期望=100, 实际=100
+INFO     api_test:assert_util.py:73 断言字段值: 'success' 期望=True, 实际=True
+INFO     api_test:request.py:90 >>> POST https://test-web.nn.com/webapi/u-nnpc/api/v1/userInfo/getUserInfoCard
+INFO     api_test:request.py:121 <<< 200 (0.15s)
+INFO     api_test:assert_util.py:148 综合断言通过: 状态码 200, 响应体可解析 ✓
+INFO     api_test:assert_util.py:73 断言字段值: 'retCode' 期望=100, 实际=100
+INFO     api_test:assert_util.py:73 断言字段值: 'success' 期望=True, 实际=True
+INFO     api_test:request.py:90 >>> POST https://test-web.nn.com/webapi/nchannel/channel/business/findAllTypeServerMember
+INFO     api_test:request.py:121 <<< 200 (0.04s)
+INFO     api_test:assert_util.py:148 综合断言通过: 状态码 200, 响应体可解析 ✓
+INFO     api_test:assert_util.py:73 断言字段值: 'retCode' 期望=100, 实际=100
+INFO     api_test:assert_util.py:73 断言字段值: 'success' 期望=True, 实际=True
+INFO     api_test:request.py:90 >>> GET https://test-web.nn.com/webapi/nchannel/channel/auth/config/server/role/users
+INFO     api_test:request.py:121 <<< 200 (0.04s)
+INFO     api_test:assert_util.py:148 综合断言通过: 状态码 200, 响应体可解析 ✓
+INFO     api_test:assert_util.py:73 断言字段值: 'retCode' 期望=100, 实际=100
+INFO     api_test:assert_util.py:73 断言字段值: 'success' 期望=True, 实际=True
