@@ -1,9 +1,0 @@
-2026-06-01 16:21:54 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/nchannel/channel/business/batAddPersonalServerTopicChannel
-2026-06-01 16:21:55 [INFO] api_test - <<< 200 (0.85s)
-2026-06-01 16:21:55 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
-2026-06-01 16:21:55 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=100
-2026-06-01 16:21:55 [INFO] api_test - 断言字段存在: 'retData' ✓
-2026-06-01 16:21:55 [INFO] api_test - >>> PUT https://test-web.nn.com/webapi/nchannel/channel/business/removePersonalServerTopicChannel
-2026-06-01 16:21:56 [INFO] api_test - <<< 200 (0.94s)
-2026-06-01 16:21:56 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
-2026-06-01 16:21:56 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=100
