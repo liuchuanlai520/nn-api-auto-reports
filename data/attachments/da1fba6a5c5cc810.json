@@ -1,0 +1,14 @@
+{
+  "retTime": "2026-06-01 13:54:25",
+  "success": true,
+  "trackId": "24c35ed86ec94b33901ae224ff1287f8",
+  "retData": {
+    "userGrade": 100,
+    "experience": 500000000,
+    "hasOpen": 1,
+    "upgradeExperience": 0,
+    "status": 1
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

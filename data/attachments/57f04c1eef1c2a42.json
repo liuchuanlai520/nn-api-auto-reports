@@ -1,0 +1,16 @@
+{
+  "retTime": "2026-06-01 11:23:56",
+  "success": true,
+  "trackId": "289c592407ef448fb682a309242485f1",
+  "retData": {
+    "current": 1,
+    "total": 0,
+    "pages": 0,
+    "size": 2000,
+    "pageNo": 1,
+    "pageSize": 0,
+    "list": []
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

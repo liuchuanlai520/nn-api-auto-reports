@@ -1,0 +1,18 @@
+{
+  "retTime": "2026-06-01 13:55:46",
+  "success": true,
+  "trackId": "ed2b152bf0c34865a655102c9f1f0be3",
+  "retData": {
+    "isQueue": null,
+    "personalVersion": null,
+    "result": true,
+    "plateId": null,
+    "plateName": "",
+    "serverBo": null,
+    "serverMemberId": 2001132213,
+    "personaMemberServerSortResp": null,
+    "version": 1780293346352
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

@@ -1,0 +1,17 @@
+URL: https://test-web.nn.com/webapi/wan/user/info/v1/validate/user/message/154471365
+Method: GET
+Headers: {
+  "User-Agent": "python-requests/2.31.0",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive",
+  "appid": "nnPcWeb_8GIXaARk",
+  "registercanal": "guanwang_nn",
+  "busitype": "nn_aksjfdasoifnkls",
+  "deviceid": "f017ac15e32f4b25aae3ac08c96e8879",
+  "adan": "userSourceType=0",
+  "reqchannel": "4",
+  "version": "201048",
+  "content-type": "application/json",
+  "token": "nnPcWeb_8GIXaARkca936bc39d31464ba2dada7d45bcf344"
+}

@@ -1,0 +1,12 @@
+{
+  "retTime": "2026-06-01 11:22:41",
+  "success": true,
+  "trackId": "6409fb6d07334a5eb3b92972c11e09b2",
+  "retData": {
+    "unReadNum": 4,
+    "msgContent": "<p>要下架</p>",
+    "msgTime": "2026-04-24 19:30:22"
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

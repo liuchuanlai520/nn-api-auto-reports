@@ -1,0 +1,11 @@
+{
+  "retTime": "2026-06-01 11:22:52",
+  "success": true,
+  "trackId": "a79e5227dba64d1c8debe05ce093cbb0",
+  "retData": {
+    "tipShowType": 1,
+    "percent": 39
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

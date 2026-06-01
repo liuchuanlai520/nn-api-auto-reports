@@ -1,0 +1,14 @@
+INFO     api_test:login_fixture.py:162 [NN] 正在获取 Token: POST https://test-web.nn.com/webapi/u-nnpc/registerLogin, telNum=17880000900 (attempt 1)
+INFO     api_test:login_fixture.py:184 [NN] Token 获取成功: userId=10005567, nickName=自动化普通用户
+INFO     api_test:request.py:90 >>> POST https://test-web.nn.com/webapi/ncoperation/nc/operation/user/updUserServerExt
+INFO     api_test:request.py:121 <<< 200 (0.17s)
+INFO     api_test:request.py:90 >>> POST https://test-web.nn.com/webapi/ncoperation/nc/operation/user/updUserServerExt
+INFO     api_test:request.py:121 <<< 200 (0.02s)
+INFO     api_test:request.py:90 >>> POST https://test-web.nn.com/webapi/u-nnpc/api/v1/userInfo/getUserInfoCard
+INFO     api_test:request.py:121 <<< 200 (0.19s)
+INFO     api_test:assert_util.py:148 综合断言通过: 状态码 200, 响应体可解析 ✓
+INFO     api_test:assert_util.py:73 断言字段值: 'retCode' 期望=100, 实际=100
+INFO     api_test:request.py:90 >>> POST https://test-web.nn.com/webapi/u-nnpc/api/v1/userInfo/getUserInfoCard
+INFO     api_test:request.py:121 <<< 200 (0.02s)
+INFO     api_test:assert_util.py:148 综合断言通过: 状态码 200, 响应体可解析 ✓
+INFO     api_test:assert_util.py:73 断言字段值: 'retCode' 期望=100, 实际=auth_40002

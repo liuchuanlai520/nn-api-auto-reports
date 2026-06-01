@@ -1,0 +1,17 @@
+URL: https://test-web.nn.com/webapi/u-nnpc/api/v2/userInfo/findMyUserInfo
+Method: POST
+Headers: {
+  "User-Agent": "python-requests/2.31.0",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive",
+  "appid": "nnPcWeb_8GIXaARk",
+  "registercanal": "guanwang_nn",
+  "busitype": "nn_aksjfdasoifnkls",
+  "deviceid": "WEB__154469627_6a1cffdee4b0e677bc7f96b8",
+  "adan": "userSourceType=0",
+  "reqchannel": "4",
+  "version": "201048",
+  "content-type": "application/json",
+  "token": "nnPcWeb_8GIXaARk26fe2a46d8c9426da0154a14c9d42b34"
+}

@@ -1,0 +1,23 @@
+2026-06-01 11:38:25 [INFO] api_test - [NN] 正在获取 Token: POST https://test-web.nn.com/webapi/u-nnpc/registerLogin, telNum=17890000900 (attempt 1)
+2026-06-01 11:38:26 [INFO] api_test - [NN] Token 获取成功: userId=10005449, nickName=自动化测试大神1
+2026-06-01 11:38:26 [INFO] api_test - [Fixture] dashen HTTP 客户端已创建: base_url=https://test-web.nn.com
+2026-06-01 11:38:26 [INFO] api_test - [NN] 正在获取 Token: POST https://test-web.nn.com/webapi/u-nnpc/registerLogin, telNum=17880000900 (attempt 1)
+2026-06-01 11:38:27 [INFO] api_test - [NN] Token 获取成功: userId=10005567, nickName=自动化普通用户
+2026-06-01 11:38:27 [INFO] api_test - [Fixture] user token 已获取: nnPcWeb_8GIXaARkd683...
+2026-06-01 11:38:27 [INFO] api_test - [Fixture] user HTTP 客户端已创建: base_url=https://test-web.nn.com
+2026-06-01 11:38:27 [INFO] api_test - [NN] 正在获取 Token: POST https://test-web.nn.com/webapi/u-nnpc/registerLogin, telNum=17880000900 (attempt 1)
+2026-06-01 11:38:28 [WARNING] api_test - [NN] 请求太频繁，2秒后重试...
+2026-06-01 11:38:30 [INFO] api_test - [NN] 正在获取 Token: POST https://test-web.nn.com/webapi/u-nnpc/registerLogin, telNum=17880000900 (attempt 2)
+2026-06-01 11:38:30 [INFO] api_test - [NN] Token 获取成功: userId=10005567, nickName=自动化普通用户
+2026-06-01 11:38:30 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/ncoperation/nc/operation/user/updUserServerExt
+2026-06-01 11:38:31 [INFO] api_test - <<< 200 (0.88s)
+2026-06-01 11:38:31 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/ncoperation/nc/operation/user/updUserServerExt
+2026-06-01 11:38:32 [INFO] api_test - <<< 200 (0.74s)
+2026-06-01 11:38:32 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/u-nnpc/api/v1/userInfo/getUserInfoCard
+2026-06-01 11:38:32 [INFO] api_test - <<< 200 (0.19s)
+2026-06-01 11:38:32 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
+2026-06-01 11:38:32 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=100
+2026-06-01 11:38:32 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/u-nnpc/api/v1/userInfo/getUserInfoCard
+2026-06-01 11:38:32 [INFO] api_test - <<< 200 (0.03s)
+2026-06-01 11:38:32 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
+2026-06-01 11:38:32 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=auth_40002

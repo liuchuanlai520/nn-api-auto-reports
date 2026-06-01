@@ -1,0 +1,19 @@
+{
+  "retTime": "2026-06-01 13:47:18",
+  "success": true,
+  "trackId": "6be90ef12a0d4762b2df04be2742c0d3",
+  "retData": [
+    {
+      "nickName": "自动化测试大神1",
+      "userServerRole": 1,
+      "serverUserName": "",
+      "soloTimeStamp": 1780292838390,
+      "userUrlNn": "https://test1-dfs01.nn.com/v3/userImg/1733985153/1837/c0h4u5.png",
+      "userId": 10005449,
+      "channelId": 1002573765,
+      "timestamp": 1780292838390
+    }
+  ],
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

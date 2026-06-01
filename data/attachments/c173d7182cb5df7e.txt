@@ -1,0 +1,16 @@
+2026-06-01 11:24:09 [INFO] api_test - >>> GET https://test-web.nn.com/webapi/nchannel/channel/business/findMyPersonalServerMemberServer
+2026-06-01 11:24:10 [INFO] api_test - <<< 200 (0.07s)
+2026-06-01 11:24:10 [INFO] api_test - >>> PUT https://test-web.nn.com/webapi/nchannel/channel/business/exitPersonalServer
+2026-06-01 11:24:10 [INFO] api_test - <<< 200 (0.08s)
+2026-06-01 11:24:10 [INFO] api_test - >>> GET https://test-web.nn.com/webapi/nchannel/channel/business/findMyPersonalServerMemberServer
+2026-06-01 11:24:10 [INFO] api_test - <<< 200 (0.07s)
+2026-06-01 11:24:10 [INFO] api_test - >>> PUT https://test-web.nn.com/webapi/nchannel/channel/business/joinPersonalServer
+2026-06-01 11:24:10 [INFO] api_test - <<< 200 (0.18s)
+2026-06-01 11:24:10 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
+2026-06-01 11:24:10 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=100
+2026-06-01 11:24:10 [INFO] api_test - >>> GET https://test-web.nn.com/webapi/nchannel/channel/business/findMyPersonalServerMemberServer
+2026-06-01 11:24:10 [INFO] api_test - <<< 200 (0.08s)
+2026-06-01 11:24:10 [INFO] api_test - >>> PUT https://test-web.nn.com/webapi/nchannel/channel/business/exitPersonalServer
+2026-06-01 11:24:10 [INFO] api_test - <<< 200 (0.16s)
+2026-06-01 11:24:10 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
+2026-06-01 11:24:10 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=100

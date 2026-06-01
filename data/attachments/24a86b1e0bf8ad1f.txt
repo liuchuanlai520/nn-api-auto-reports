@@ -1,0 +1,17 @@
+URL: https://test-web.nn.com/webapi/wan/user/info/v1/user/data/completion
+Method: POST
+Headers: {
+  "User-Agent": "python-requests/2.31.0",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive",
+  "appid": "nnPcWeb_8GIXaARk",
+  "registercanal": "guanwang_nn",
+  "busitype": "nn_aksjfdasoifnkls",
+  "deviceid": "758724f7882d9268ec5bbbc2e7d85261",
+  "adan": "userSourceType=0",
+  "reqchannel": "4",
+  "version": "201048",
+  "content-type": "application/json",
+  "token": "nnPcWeb_8GIXaARk6a8990b5d4df41e5ae5c8b79a8546f2a"
+}

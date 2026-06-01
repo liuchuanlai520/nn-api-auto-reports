@@ -1,0 +1,30 @@
+{
+  "retTime": "2026-06-01 13:47:04",
+  "success": true,
+  "trackId": "f80808f7fb594221b1250b504b836c36",
+  "retData": [
+    {
+      "targetServerId": 7520,
+      "dbId": 1004,
+      "name": "换一PUBG黑域撤离",
+      "targetUserId": null,
+      "sort": 24
+    },
+    {
+      "targetServerId": null,
+      "dbId": 15,
+      "name": "巴音布鲁克的土！！！！！！！！",
+      "targetUserId": 10002409,
+      "sort": 6
+    },
+    {
+      "targetServerId": 7520,
+      "dbId": 20,
+      "name": "换二绝地求生赛车杯",
+      "targetUserId": null,
+      "sort": 2
+    }
+  ],
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

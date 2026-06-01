@@ -1,0 +1,13 @@
+{
+  "retTime": "2026-06-01 11:24:09",
+  "success": true,
+  "trackId": "aab867a1058749b3a6e100b87800b788",
+  "retData": {
+    "templateType": 1,
+    "serverName": null,
+    "id": null,
+    "serverId": null
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

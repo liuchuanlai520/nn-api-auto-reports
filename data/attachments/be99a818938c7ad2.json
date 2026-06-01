@@ -1,0 +1,36 @@
+{
+  "retTime": "2026-06-01 11:48:05",
+  "success": true,
+  "trackId": "37357714d8e941af9ae31c6d3c79250b",
+  "retData": {
+    "currentUserRankInfo": {
+      "currentStreak": 9,
+      "userGrade": 100,
+      "nickName": "自动化测试大神1",
+      "userUrlNn": "https://test1-dfs01.nn.com/v3/userImg/1733985153/1837/c0h4u5.png",
+      "userId": 10005449,
+      "rankNo": 1
+    },
+    "pageData": {
+      "current": 1,
+      "total": 1,
+      "hitCount": false,
+      "pages": 1,
+      "size": 10,
+      "records": [
+        {
+          "currentStreak": 9,
+          "userGrade": 100,
+          "nickName": "自动化测试大神1",
+          "userUrlNn": "https://test1-dfs01.nn.com/v3/userImg/1733985153/1837/c0h4u5.png",
+          "userId": 10005449,
+          "rankNo": 1
+        }
+      ],
+      "searchCount": true,
+      "orders": []
+    }
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

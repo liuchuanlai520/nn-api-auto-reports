@@ -1,0 +1,4 @@
+2026-06-01 13:54:08 [INFO] api_test - >>> GET https://test-web.nn.com/webapi/nchannel/channel/business/findIMAuth
+2026-06-01 13:54:09 [INFO] api_test - <<< 200 (0.04s)
+2026-06-01 13:54:09 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
+2026-06-01 13:54:09 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=100

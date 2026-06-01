@@ -1,0 +1,17 @@
+{
+  "retTime": "2026-06-01 11:22:06",
+  "success": true,
+  "trackId": "f2975e9f9b804b8b86dffb1e37193648",
+  "retData": {
+    "current": 1,
+    "total": 0,
+    "hitCount": false,
+    "pages": 0,
+    "size": 10,
+    "records": [],
+    "searchCount": true,
+    "orders": []
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}
