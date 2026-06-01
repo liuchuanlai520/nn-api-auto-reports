@@ -1,7 +1,0 @@
-2026-06-01 20:15:07 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/wan/user/info/v2/validate/userinfo/154471365
-2026-06-01 20:15:07 [INFO] api_test - <<< 200 (0.03s)
-2026-06-01 20:15:07 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
-2026-06-01 20:15:07 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=100
-2026-06-01 20:15:07 [INFO] api_test - 断言字段存在: 'retData.userId' ✓
-2026-06-01 20:15:07 [INFO] api_test - 断言字段存在: 'retData.effectiveWan' ✓
-2026-06-01 20:15:07 [INFO] api_test - 断言字段存在: 'retData.statue' ✓

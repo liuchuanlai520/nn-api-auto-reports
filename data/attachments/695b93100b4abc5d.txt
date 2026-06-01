@@ -1,6 +1,0 @@
-2026-06-01 20:14:31 [INFO] api_test - [Fixture] user3 HTTP 客户端已创建(带玩订单专用): base_url=https://test-web.nn.com
-2026-06-01 20:14:31 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/wan/api/v1/user/chat/info/send
-2026-06-01 20:14:32 [INFO] api_test - <<< 200 (0.66s)
-2026-06-01 20:14:32 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
-2026-06-01 20:14:32 [INFO] api_test - 断言字段值: 'success' 期望=True, 实际=True
-2026-06-01 20:14:32 [INFO] api_test - 断言字段值: 'retMsg' 期望=操作成功, 实际=操作成功

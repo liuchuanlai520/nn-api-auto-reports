@@ -1,4 +1,0 @@
-2026-06-01 20:14:29 [INFO] api_test - >>> POST https://test-opapi.nn.com/wan/user/info/v1/findBoosRelationList
-2026-06-01 20:14:29 [INFO] api_test - <<< 200 (0.62s)
-2026-06-01 20:14:29 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
-2026-06-01 20:14:29 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=100
