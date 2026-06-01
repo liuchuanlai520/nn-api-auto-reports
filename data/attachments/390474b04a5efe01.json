@@ -1,0 +1,12 @@
+{
+  "consumerType": 1,
+  "dwInfoReqs": [],
+  "orderType": 36,
+  "payType": 1,
+  "orderMode": 4,
+  "payScene": 1,
+  "orderScene": {
+    "sceneType": 10
+  },
+  "isGameCategoryOrder": true
+}

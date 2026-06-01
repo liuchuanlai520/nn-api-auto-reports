@@ -1,0 +1,25 @@
+{
+  "retTime": "2026-06-01 20:56:17",
+  "success": true,
+  "trackId": "2773444d8aeb41bfb83f59ff0448dafd",
+  "retData": {
+    "updTimestamp": 1779678417000,
+    "targetType": 32,
+    "updateTime": "2026-05-25 11:06:57",
+    "title": "活动",
+    "target": "/community/7520/plugin/articleDetail/46830",
+    "imgUrl": "https://test1-dfs01.nn.com/v2/null/1777368625/4618/tml5kB.jpg",
+    "activityId": "",
+    "clickBtn": 1,
+    "createBy": "蔡辉",
+    "createTime": "2026-04-29 20:04:05",
+    "updateBy": "姚双",
+    "clickThen": 0,
+    "withToken": 0,
+    "id": 38,
+    "userType": 1,
+    "status": 1
+  },
+  "retCode": "100",
+  "retMsg": "操作成功"
+}

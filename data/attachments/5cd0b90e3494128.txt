@@ -1,0 +1,20 @@
+2026-06-01 20:57:09 [INFO] api_test - >>> GET https://test-web.nn.com/webapi/wan/user/other/info/v1/update/status/6
+2026-06-01 20:57:10 [INFO] api_test - <<< 200 (0.59s)
+2026-06-01 20:57:10 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
+2026-06-01 20:57:10 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=100
+2026-06-01 20:57:10 [INFO] api_test - 断言字段值: 'success' 期望=True, 实际=True
+2026-06-01 20:57:10 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/u-nnpc/api/v1/userInfo/getUserInfoCard
+2026-06-01 20:57:10 [INFO] api_test - <<< 200 (0.15s)
+2026-06-01 20:57:10 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
+2026-06-01 20:57:10 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=100
+2026-06-01 20:57:10 [INFO] api_test - 断言字段值: 'success' 期望=True, 实际=True
+2026-06-01 20:57:10 [INFO] api_test - >>> POST https://test-web.nn.com/webapi/nchannel/channel/business/findAllTypeServerMember
+2026-06-01 20:57:10 [INFO] api_test - <<< 200 (0.03s)
+2026-06-01 20:57:10 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
+2026-06-01 20:57:10 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=100
+2026-06-01 20:57:10 [INFO] api_test - 断言字段值: 'success' 期望=True, 实际=True
+2026-06-01 20:57:10 [INFO] api_test - >>> GET https://test-web.nn.com/webapi/nchannel/channel/auth/config/server/role/users
+2026-06-01 20:57:10 [INFO] api_test - <<< 200 (0.03s)
+2026-06-01 20:57:10 [INFO] api_test - 综合断言通过: 状态码 200, 响应体可解析 ✓
+2026-06-01 20:57:10 [INFO] api_test - 断言字段值: 'retCode' 期望=100, 实际=100
+2026-06-01 20:57:10 [INFO] api_test - 断言字段值: 'success' 期望=True, 实际=True

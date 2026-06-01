@@ -1,0 +1,21 @@
+{
+  "consumerType": 1,
+  "dwInfoReqs": [
+    {
+      "userId": 10005449,
+      "unitPrice": 1,
+      "gameId": 77,
+      "gameIcon": "https://test1-dfs01.nn.com/v2/default/1726026381/7807/0xz9pw.jpg",
+      "gameName": "黑神话悟空（别下架）",
+      "serviceItemId": null
+    }
+  ],
+  "orderType": 36,
+  "payType": 1,
+  "orderMode": 4,
+  "payScene": 1,
+  "orderScene": {
+    "sceneType": 10
+  },
+  "isGameCategoryOrder": true
+}
